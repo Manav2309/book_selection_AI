@@ -1,0 +1,72 @@
+﻿Design Document
+
+
+Autonomous Book Recommendation AI Agent
+
+
+Overview
+
+
+This document provides a brief overview of the approach taken for developing the Autonomous Book Recommendation AI Agent. This agent helps users discover and explore books across a variety of genres, offering recommendations and detailed descriptions of specific titles. The system utilizes the “LLama3” model by Ollama and is built using Streamlit for the web interface.
+
+
+Objectives
+
+
+1. User-Friendly Book Discovery: Simplify the process for users to find books within their preferred genres.
+2. High-Quality Recommendations: Provide users with top-rated books in their selected genre.
+3. Detailed Information: Offer comprehensive details about specific books upon user request.
+
+
+Architecture
+
+
+1. Language Model: LLama3 by Ollama
+2. Web Framework: Streamlit
+3. Data Storage: JSON for storing book data
+
+
+Design Approach
+
+
+1. Genre Selection and Book Listing
+   - Purpose: To allow users to select a genre and display a list of 100 books in that genre.
+   - Implementation: 
+     - Use a dropdown menu to let users select a genre.
+     - Use the `get_top_100_books` function to retrieve the top 100 books for the selected genre from a pre-loaded JSON dataset.
+
+
+2. Top 10 Book Recommendations
+   - Purpose To provide users with the top 10 books based on ratings from the initial list of 100 books.
+   - Implementation: 
+     - Sort the books by their ratings in descending order using the `get_top_10_books` function.
+     - Display the top 10 books to the user.
+
+
+3. Dynamic Genre Book Retrieval
+   - Purpose: To dynamically fetch 100 books from a specified genre not listed in the initial dataset.
+   - Implementation: 
+     - Use LLama3 model to generate book titles and author names for the specified genre.
+     - Retrieve and display the results in a user-friendly format.
+
+
+4. Book Details Retrieval
+   - Purpose: To provide detailed information about a specific book upon user request.
+   - Implementation: 
+     - Use LLama3 model with a prompt template to fetch details about the specified book title.
+     - Display the detailed description to the user.
+
+
+Reasoning Behind the Approach
+
+
+1. User Experience: By pre-loading a dataset of books, users can quickly access a list of 100 books for popular genres without waiting for data retrieval from an external source. This enhances the user experience by reducing latency and time.
+2. High-Quality Recommendations: Sorting books by their ratings ensures that users receive the best possible recommendations, aiding in their decision-making process.
+3. Flexibility:  Allowing users to input any genre provides flexibility and extends the application's usability beyond predefined genres.
+4. Detailed Information: Offering detailed descriptions for specific book titles adds value for users seeking in-depth knowledge about a book, enhancing their overall experience.
+
+
+Conclusion
+
+
+The Autonomous Book Recommendation AI Agent is designed to offer a seamless and informative book discovery experience. The combination of pre-loaded data and dynamic retrieval using the LLama3 model ensures that users receive both quick access to information and the flexibility to explore new genres. Streamlit provides an intuitive interface, making the application accessible and easy to use.
