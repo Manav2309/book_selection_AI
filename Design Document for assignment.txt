@@ -60,10 +60,10 @@ Design Approach
 Reasoning Behind the Approach
 
 
-1. User Experience: By pre-loading a dataset of books, users can quickly access a list of 100 books for popular genres without waiting for data retrieval from an external source. This enhances the user experience by reducing latency and time.
-2. High-Quality Recommendations: Sorting books by their ratings ensures that users receive the best possible recommendations, aiding in their decision-making process.
-3. Flexibility:  Allowing users to input any genre provides flexibility and extends the application's usability beyond predefined genres.
-4. Detailed Information: Offering detailed descriptions for specific book titles adds value for users seeking in-depth knowledge about a book, enhancing their overall experience.
+1.By pre-loading a dataset of books, users can quickly access a list of 100 books for popular genres without waiting for data retrieval from an external source. This enhances the user experience by reducing latency and time.
+2.Sorting books by their ratings ensures that users receive the best possible recommendations, aiding in their decision-making process.
+3.Allowing users to input any genre provides flexibility and extends the application's usability beyond predefined genres.
+4.Offering detailed descriptions for specific book titles adds value for users seeking in-depth knowledge about a book, enhancing their overall experience.
 
 
 Conclusion
