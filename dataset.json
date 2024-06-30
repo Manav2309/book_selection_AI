@@ -1,0 +1,6455 @@
+
+{
+  "Fantasy": [
+    {
+      "Title": "The Game Of Thrones",
+      "Author": "George RR Martin",
+      "Rating": 4.45
+    },
+    {
+      "Title": "The Colour Of Magic",
+      "Author": "Terry Pratchett",
+      "Rating": 3.99
+    },
+    {
+      "Title": "The Lord of the Rings",
+      "Author": "JRR Tolkien",
+      "Rating": 4.49
+    },
+    {
+      "Title": "Jonathan Strange & Mr Norrell",
+      "Author": "Susanna Clarke",
+      "Rating": 3.82
+    },
+    {
+      "Title": "The Name of the Wind",
+      "Author": "Patrick Rothfuss",
+      "Rating": 4.54
+    },
+    {
+      "Title": "The Lies of Locke Lamora",
+      "Author": "Scott Lynch",
+      "Rating": 4.31
+    },
+    {
+      "Title": "American Gods",
+      "Author": "Neil Gaiman",
+      "Rating": 4.11
+    },
+    {
+      "Title": "The Fifth Season",
+      "Author": "NK Jemisin",
+      "Rating": 4.31
+    },
+    {
+      "Title": "The Earthsea Quartet",
+      "Author": "Ursula Le Guin",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Assassin's Apprentice",
+      "Author": "Robin Hobb",
+      "Rating": 4.15
+    },
+    {
+      "Title": "Gardens Of The Moon",
+      "Author": "Steven Erikson",
+      "Rating": 3.88
+    },
+    {
+      "Title": "Northern Lights",
+      "Author": "Philip Pullman",
+      "Rating": 3.96
+    },
+    {
+      "Title": "Perdido Street Station",
+      "Author": "China Mieville",
+      "Rating": 3.97
+    },
+    {
+      "Title": "Lord Foul's Bane",
+      "Author": "Stephen Donaldson",
+      "Rating": 3.93
+    },
+    {
+      "Title": "Harry Potter and the Philosopher's Stone",
+      "Author": "JK Rowling",
+      "Rating": 4.48
+    },
+    {
+      "Title": "The Gunslinger",
+      "Author": "Stephen King",
+      "Rating": 3.96
+    },
+    {
+      "Title": "The Way of Kings",
+      "Author": "Brandon Sanderson",
+      "Rating": 4.65
+    },
+    {
+      "Title": "The Lion The Witch And The Wardrobe",
+      "Author": "CS Lewis",
+      "Rating": 4.23
+    },
+    {
+      "Title": "The Blade Itself",
+      "Author": "Joe Abercrombie",
+      "Rating": 4.15
+    },
+    {
+      "Title": "The Eye of the World",
+      "Author": "Robert Jordan",
+      "Rating": 4.17
+    },
+    {
+      "Title": "Good Omens",
+      "Author": "Terry Pratchett",
+      "Rating": 4.25
+    },
+    {
+      "Title": "The Once And Future King",
+      "Author": "TH White",
+      "Rating": 4.08
+    },
+    {
+      "Title": "Under Heaven",
+      "Author": "Guy Gavriel Kay",
+      "Rating": 4.17
+    },
+    {
+      "Title": "The Hundred Thousand Kingdoms",
+      "Author": "NK Jemisin",
+      "Rating": 3.85
+    },
+    {
+      "Title": "The Final Empire",
+      "Author": "Brandon Sanderson",
+      "Rating": 4.45
+    },
+    {
+      "Title": "The Shadow of the Torturer",
+      "Author": "Gene Wolf",
+      "Rating": 3.96
+    },
+    {
+      "Title": "Jade City",
+      "Author": "Fonda Lee",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Magician",
+      "Author": "Raymond E Feist",
+      "Rating": 4.12
+    },
+    {
+      "Title": "Tigana",
+      "Author": "Guy Gavriel Kay",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Last Unicorn",
+      "Author": "Peter S Beagle",
+      "Rating": 4.23
+    },
+    {
+      "Title": "Watership Down",
+      "Author": "Richard Adams",
+      "Rating": 4.06
+    },
+    {
+      "Title": "The Magicians",
+      "Author": "Lev Grossman",
+      "Rating": 3.54
+    },
+    {
+      "Title": "Alice's Adventures in Wonderland",
+      "Author": "Lewis Carroll",
+      "Rating": 4.01
+    },
+    {
+      "Title": "The Princess Bride",
+      "Author": "William Goldman",
+      "Rating": 4.26
+    },
+    {
+      "Title": "Kushiel's Dart",
+      "Author": "Jacqueline Carey",
+      "Rating": 4.09
+    },
+    {
+      "Title": "The Night Circus",
+      "Author": "Erin Morgenstern",
+      "Rating": 4.04
+    },
+    {
+      "Title": "Dune",
+      "Author": "Frank Herbert",
+      "Rating": 4.22
+    },
+    {
+      "Title": "Sailing to Sarantium",
+      "Author": "Guy Gavriel Kay",
+      "Rating": 4.13
+    },
+    {
+      "Title": "City of Stairs",
+      "Author": "Robert Jackson Bennett",
+      "Rating": 4.18
+    },
+    {
+      "Title": "The Golem and the Djinni",
+      "Author": "Helene Wecker",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Dragonflight",
+      "Author": "Anne McCaffrey",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Bone Clocks",
+      "Author": "David Mitchell",
+      "Rating": 3.81
+    },
+    {
+      "Title": "The Hobbit",
+      "Author": "JRR Tolkien",
+      "Rating": 4.28
+    },
+    {
+      "Title": "The Dragonbone Chair",
+      "Author": "Tad Williams",
+      "Rating": 4.13
+    },
+    {
+      "Title": "The Black Company",
+      "Author": "Glen Cook",
+      "Rating": 4.05
+    },
+    {
+      "Title": "The Silmarillion",
+      "Author": "JRR Tolkien",
+      "Rating": 3.94
+    },
+    {
+      "Title": "Titus Groan",
+      "Author": "Mervyn Peake",
+      "Rating": 3.83
+    },
+    {
+      "Title": "The Sword of Shannara",
+      "Author": "Terry Brooks",
+      "Rating": 3.98
+    },
+    {
+      "Title": "Circe",
+      "Author": "Madeline Miller",
+      "Rating": 4.26
+    },
+    {
+      "Title": "The Way of Shadows",
+      "Author": "Brent Weeks",
+      "Rating": 4.15
+    },
+    {
+      "Title": "Storm Front",
+      "Author": "Jim Butcher",
+      "Rating": 4.02
+    },
+    {
+      "Title": "Rivers of London",
+      "Author": "Ben Aaronovitch",
+      "Rating": 3.92
+    },
+    {
+      "Title": "James and the Giant Peach",
+      "Author": "Roald Dahl",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Prince of Thorns",
+      "Author": "Mark Lawrence",
+      "Rating": 3.87
+    },
+    {
+      "Title": "Swan Song",
+      "Author": "Robert McCammon",
+      "Rating": 4.28
+    },
+    {
+      "Title": "The Stand",
+      "Author": "Stephen King",
+      "Rating": 4.34
+    },
+    {
+      "Title": "The Ocean at the End of the Lane",
+      "Author": "Neil Gaiman",
+      "Rating": 4.01
+    },
+    {
+      "Title": "All the Birds in the Sky",
+      "Author": "Charlie Jane Anders",
+      "Rating": 3.58
+    },
+    {
+      "Title": "It",
+      "Author": "Stephen King",
+      "Rating": 4.22
+    },
+    {
+      "Title": "The Ninth Rain",
+      "Author": "Jen Williams",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Poppy War",
+      "Author": "R F Kuang",
+      "Rating": 4.11
+    },
+    {
+      "Title": "A Brightness Long Ago",
+      "Author": "Guy Gavriel Kay",
+      "Rating": 4.24
+    },
+    {
+      "Title": "The Priory of the Orange Tree",
+      "Author": "Samantha Shannon",
+      "Rating": 4.11
+    },
+    {
+      "Title": "The Raven Tower",
+      "Author": "Ann Leckie",
+      "Rating": 3.75
+    },
+    {
+      "Title": "The 10,000 Doors of January",
+      "Author": "Alix E Harrow",
+      "Rating": 4.11
+    },
+    {
+      "Title": "Ninth House",
+      "Author": "Leigh Bardugo",
+      "Rating": 3.99
+    },
+    {
+      "Title": "Some Kind of Fairy Tale",
+      "Author": "Graham Joyce",
+      "Rating": 3.8
+    },
+    {
+      "Title": "Gideon the Ninth",
+      "Author": "Tamsyn Muir",
+      "Rating": 4.08
+    },
+    {
+      "Title": "The Book Thief",
+      "Author": "Markus Zusak",
+      "Rating": 4.38
+    },
+    {
+      "Title": "The Forgotten Beasts of Eld",
+      "Author": "Patricia McKillip",
+      "Rating": 4.15
+    },
+    {
+      "Title": "Duncton Wood",
+      "Author": "William Horwood",
+      "Rating": 4.13
+    },
+    {
+      "Title": "Legend",
+      "Author": "David Gemmell",
+      "Rating": 4.32
+    },
+    {
+      "Title": "Wizard's First Rule",
+      "Author": "Terry Goodkind",
+      "Rating": 4.12
+    },
+    {
+      "Title": "Neverwhere",
+      "Author": "Neil Gaiman",
+      "Rating": 4.18
+    },
+    {
+      "Title": "The Graveyard Book",
+      "Author": "Neil Gaiman",
+      "Rating": 4.13
+    },
+    {
+      "Title": "The City and the City",
+      "Author": "China Mieville",
+      "Rating": 3.89
+    },
+    {
+      "Title": "Tender Morsels",
+      "Author": "Margo Lanagan",
+      "Rating": 3.79
+    },
+    {
+      "Title": "Palimpsest",
+      "Author": "Catherynne M Valente",
+      "Rating": 3.75
+    },
+    {
+      "Title": "The Shadow Year",
+      "Author": "Jeffrey Ford",
+      "Rating": 3.57
+    },
+    {
+      "Title": "Boy's Life",
+      "Author": "Robert McCammon",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Yiddish Policemen's Union",
+      "Author": "Michael Chabon",
+      "Rating": 3.7
+    },
+    {
+      "Title": "The Moon and the Sun",
+      "Author": "Vonda N McIntyre",
+      "Rating": 3.74
+    },
+    {
+      "Title": "Interview with the Vampire",
+      "Author": "Anne Rice",
+      "Rating": 3.99
+    },
+    {
+      "Title": "Anno Dracula",
+      "Author": "Kim Newman",
+      "Rating": 3.88
+    },
+    {
+      "Title": "The Silent Land",
+      "Author": "Graham Joyce",
+      "Rating": 3.81
+    },
+    {
+      "Title": "11.22.63",
+      "Author": "Stephen King",
+      "Rating": 4.32
+    },
+    {
+      "Title": "The Killing Moon",
+      "Author": "NK Jemisin",
+      "Rating": 4.08
+    },
+    {
+      "Title": "Alif the Unseen",
+      "Author": "G Willow Wilson",
+      "Rating": 3.83
+    },
+    {
+      "Title": "Nights at the Circus",
+      "Author": "Angela Carter",
+      "Rating": 3.93
+    },
+    {
+      "Title": "Zoo City",
+      "Author": "Lauren Beukes",
+      "Rating": 3.84
+    },
+    {
+      "Title": "The Dark is Rising Sequence",
+      "Author": "Susan Cooper",
+      "Rating": 4.05
+    },
+    {
+      "Title": "Weaveworld",
+      "Author": "Clive Barker",
+      "Rating": 4.0
+    },
+    {
+      "Title": "A Darker Shade of Magic",
+      "Author": "VE Schwab",
+      "Rating": 4.07
+    },
+    {
+      "Title": "The Goblin Emperor",
+      "Author": "Katherine Addison",
+      "Rating": 4.06
+    },
+    {
+      "Title": "The Sudden Appearance of Hope",
+      "Author": "Claire North",
+      "Rating": 3.72
+    },
+    {
+      "Title": "Blackwing",
+      "Author": "Ed McDonald",
+      "Rating": 3.91
+    },
+    {
+      "Title": "Foundryside",
+      "Author": "Robert Jackson Bennett",
+      "Rating": 4.14
+    },
+    {
+      "Title": "The Chimes",
+      "Author": "Anna Smaill",
+      "Rating": 3.59
+    },
+    {
+      "Title": "The Rage of Dragons",
+      "Author": "Evan Winter",
+      "Rating": 4.29
+    },
+    {
+      "Title": "Middlegame",
+      "Author": "Seanan McGuire",
+      "Rating": 4.19
+    }
+  ],
+  "Mystery": [
+    {
+      "Title": "And Then There Were None",
+      "Author": "Agatha Christie",
+      "Rating": 4.26
+    },
+    {
+      "Title": "Murder on the Orient Express",
+      "Author": "Agatha Christie",
+      "Rating": 4.17
+    },
+    {
+      "Title": "The Girl with the Dragon Tattoo",
+      "Author": "Stieg Larsson",
+      "Rating": 4.13
+    },
+    {
+      "Title": "The Girl on the Train",
+      "Author": "Paula Hawkins",
+      "Rating": 3.91
+    },
+    {
+      "Title": "The Murder of Roger Ackroyd",
+      "Author": "Agatha Christie",
+      "Rating": 4.25
+    },
+    {
+      "Title": "Gone Girl",
+      "Author": "Gillian Flynn",
+      "Rating": 4.06
+    },
+    {
+      "Title": "Where the Crawdads Sing",
+      "Author": "Delia Owens",
+      "Rating": 4.49
+    },
+    {
+      "Title": "1st to Die",
+      "Author": "James Patterson",
+      "Rating": 4.07
+    },
+    {
+      "Title": "The Cuckoo's Calling",
+      "Author": "Robert Galbraith",
+      "Rating": 3.85
+    },
+    {
+      "Title": "The A.B.C. Murders",
+      "Author": "Agatha Christie",
+      "Rating": 4.11
+    },
+    {
+      "Title": "The Girl Who Played with Fire",
+      "Author": "Stieg Larsson",
+      "Rating": 4.24
+    },
+    {
+      "Title": "The Mysterious Affair at Styles",
+      "Author": "Agatha Christie",
+      "Rating": 3.98
+    },
+    {
+      "Title": "Death on the Nile",
+      "Author": "Agatha Christie",
+      "Rating": 4.05
+    },
+    {
+      "Title": "Sharp Objects",
+      "Author": "Gillian Flynn",
+      "Rating": 3.94
+    },
+    {
+      "Title": "The Da Vinci Code",
+      "Author": "Dan Brown",
+      "Rating": 3.80
+    },
+    {
+      "Title": "The Silkworm",
+      "Author": "Robert Galbraith",
+      "Rating": 4.00
+    },
+    {
+      "Title": "In the Woods",
+      "Author": "Tana French",
+      "Rating": 3.77
+    },
+    {
+      "Title": "2nd Chance",
+      "Author": "James Patterson",
+      "Rating": 4.03
+    },
+    {
+      "Title": "The Girl Who Kicked the Hornet's Nest",
+      "Author": "Stieg Larsson",
+      "Rating": 4.22
+    },
+    {
+      "Title": "Dark Places",
+      "Author": "Gillian Flynn",
+      "Rating": 3.94
+    },
+    {
+      "Title": "Career of Evil",
+      "Author": "Robert Galbraith",
+      "Rating": 4.06
+    },
+    {
+      "Title": "Angels & Demons",
+      "Author": "Dan Brown",
+      "Rating": 3.89
+    },
+    {
+      "Title": "One of Us Is Lying",
+      "Author": "Karen M. McManus",
+      "Rating": 4.06
+    },
+    {
+      "Title": "Along Came a Spider",
+      "Author": "James Patterson",
+      "Rating": 4.11
+    },
+    {
+      "Title": "4th of July",
+      "Author": "James Patterson",
+      "Rating": 4.07
+    },
+    {
+      "Title": "Naked in Death",
+      "Author": "J.D. Robb",
+      "Rating": 4.13
+    },
+    {
+      "Title": "A Study in Scarlet",
+      "Author": "Arthur Conan Doyle",
+      "Rating": 4.16
+    },
+    {
+      "Title": "Murder at the Vicarage",
+      "Author": "Agatha Christie",
+      "Rating": 3.98
+    },
+    {
+      "Title": "3rd Degree",
+      "Author": "James Patterson",
+      "Rating": 4.04
+    },
+    {
+      "Title": "The 7½ Deaths of Evelyn Hardcastle",
+      "Author": "Stuart Turton",
+      "Rating": 3.92
+    },
+    {
+      "Title": "The Hound of the Baskervilles",
+      "Author": "Arthur Conan Doyle",
+      "Rating": 4.13
+    },
+    {
+      "Title": "Postmortem",
+      "Author": "Patricia Cornwell",
+      "Rating": 4.02
+    },
+    {
+      "Title": "A Murder Is Announced",
+      "Author": "Agatha Christie",
+      "Rating": 3.98
+    },
+    {
+      "Title": "The Lovely Bones",
+      "Author": "Alice Sebold",
+      "Rating": 3.80
+    },
+    {
+      "Title": "The Sweetness at the Bottom of the Pie",
+      "Author": "Alan Bradley",
+      "Rating": 3.82
+    },
+    {
+      "Title": "The 5th Horseman",
+      "Author": "James Patterson",
+      "Rating": 4.06
+    },
+    {
+      "Title": "The Woman in the Window",
+      "Author": "A.J. Finn",
+      "Rating": 3.97
+    },
+    {
+      "Title": "Kiss the Girls",
+      "Author": "James Patterson",
+      "Rating": 3.94
+    },
+    {
+      "Title": "The 6th Target",
+      "Author": "James Patterson",
+      "Rating": 4.07
+    },
+    {
+      "Title": "The Likeness",
+      "Author": "Tana French",
+      "Rating": 3.93
+    },
+    {
+      "Title": "Still Life",
+      "Author": "Louise Penny",
+      "Rating": 4.07
+    },
+    {
+      "Title": "The Body in the Library",
+      "Author": "Agatha Christie",
+      "Rating": 3.88
+    },
+    {
+      "Title": "In Cold Blood",
+      "Author": "Truman Capote",
+      "Rating": 4.07
+    },
+    {
+      "Title": "7th Heaven",
+      "Author": "James Patterson",
+      "Rating": 4.09
+    },
+    {
+      "Title": "The Silent Patient",
+      "Author": "Alex Michaelides",
+      "Rating": 4.05
+    },
+    {
+      "Title": "Big Little Lies",
+      "Author": "Liane Moriarty",
+      "Rating": 4.26
+    },
+    {
+      "Title": "Glory in Death",
+      "Author": "J.D. Robb",
+      "Rating": 4.26
+    },
+    {
+      "Title": "Lethal White",
+      "Author": "Robert Galbraith",
+      "Rating": 3.91
+    },
+    {
+      "Title": "Evil Under the Sun",
+      "Author": "Agatha Christie",
+      "Rating": 3.97
+    },
+    {
+      "Title": "The Curious Incident of the Dog in the Night-Time",
+      "Author": "Mark Haddon",
+      "Rating": 3.87
+    },
+    {
+      "Title": "One for the Money",
+      "Author": "Janet Evanovich",
+      "Rating": 4.03
+    },
+    {
+      "Title": "The Murder on the Links",
+      "Author": "Agatha Christie",
+      "Rating": 3.97
+    },
+    {
+      "Title": "Body of Evidence",
+      "Author": "Patricia Cornwell",
+      "Rating": 4.04
+    },
+    {
+      "Title": "The 8th Confession",
+      "Author": "James Patterson",
+      "Rating": 4.07
+    },
+    {
+      "Title": "The Silence of the Lambs",
+      "Author": "Thomas Harris",
+      "Rating": 4.17
+    },
+    {
+      "Title": "I Am Watching You",
+      "Author": "Teresa Driscoll",
+      "Rating": 4.04
+    },
+    {
+      "Title": "The Dry",
+      "Author": "Jane Harper",
+      "Rating": 4.04
+    },
+    {
+      "Title": "Immortal in Death",
+      "Author": "J.D. Robb",
+      "Rating": 4.17
+    },
+    {
+      "Title": "Déjà Dead",
+      "Author": "Kathy Reichs",
+      "Rating": 3.98
+    },
+    {
+      "Title": "Say Nothing",
+      "Author": "Brad Parks",
+      "Rating": 4.05
+    },
+    {
+      "Title": "Faithful Place",
+      "Author": "Tana French",
+      "Rating": 3.98
+    },
+    {
+      "Title": "Cards on the Table",
+      "Author": "Agatha Christie",
+      "Rating": 4.12
+    },
+    {
+      "Title": "The Mystery of the Blue Train",
+      "Author": "Agatha Christie",
+      "Rating": 3.76
+    },
+    {
+      "Title": "From Potter's Field",
+      "Author": "Patricia Cornwell",
+      "Rating": 4.07
+    },
+    {
+      "Title": "Magpie Murders",
+      "Author": "Anthony Horowitz",
+      "Rating": 3.96
+    },
+    {
+      "Title": "The Body Farm",
+      "Author": "Patricia Cornwell",
+      "Rating": 4.07
+    },
+    {
+      "Title": "Peril at End House",
+      "Author": "Agatha Christie",
+      "Rating": 3.85
+    },
+    {
+      "Title": "The Surgeon",
+      "Author": "Tess Gerritsen",
+      "Rating": 4.12
+    },
+    {
+      "Title": "Crooked House",
+      "Author": "Agatha Christie",
+      "Rating": 3.88
+    },
+    {
+      "Title": "Five Little Pigs",
+      "Author": "Agatha Christie",
+      "Rating": 4.12
+    },
+    {
+      "Title": "The Woman in Cabin 10",
+      "Author": "Ruth Ware",
+      "Rating": 3.68
+    },
+    {
+      "Title": "Truly Devious",
+      "Author": "Maureen Johnson",
+      "Rating": 3.99
+    },
+    {
+      "Title": "Stalking Jack the Ripper",
+      "Author": "Kerri Maniscalco",
+      "Rating": 4.02
+    },
+    {
+      "Title": "All That Remains",
+      "Author": "Patricia Cornwell",
+      "Rating": 4.06
+    },
+    {
+      "Title": "Rapture in Death",
+      "Author": "J.D. Robb",
+      "Rating": 4.18
+    },
+    {
+      "Title": "A is for Alibi",
+      "Author": "Sue Grafton",
+      "Rating": 3.86
+    },
+    {
+      "Title": "Then She Was Gone",
+      "Author": "Lisa Jewell",
+      "Rating": 4.09
+    },
+    {
+      "Title": "The 9th Judgment",
+      "Author": "James Patterson",
+      "Rating": 4.07
+    },
+    {
+      "Title": "A Rule Against Murder",
+      "Author": "Louise Penny",
+      "Rating": 4.16
+    },
+    {
+      "Title": "Death in the Clouds",
+      "Author": "Agatha Christie",
+      "Rating": 3.89
+    },
+    {
+      "Title": "Vengeance in Death",
+      "Author": "J.D. Robb",
+      "Rating": 4.29
+    },
+    {
+      "Title": "Ceremony in Death",
+      "Author": "J.D. Robb",
+      "Rating": 4.26
+    },
+    {
+      "Title": "Cruel & Unusual",
+      "Author": "Patricia Cornwell",
+      "Rating": 4.12
+    },
+    {
+      "Title": "10th Anniversary",
+      "Author": "James Patterson",
+      "Rating": 3.96
+    },
+    {
+      "Title": "Hercule Poirot's Christmas",
+      "Author": "Agatha Christie",
+      "Rating": 3.97
+    },
+    {
+      "Title": "The Bone Collector",
+      "Author": "Jeffery Deaver",
+      "Rating": 4.18
+    },
+    {
+      "Title": "Conspiracy in Death",
+      "Author": "J.D. Robb",
+      "Rating": 4.28
+    },
+    {
+      "Title": "Holiday in Death",
+      "Author": "J.D. Robb",
+      "Rating": 4.25
+    },
+    {
+      "Title": "Murder in Mesopotamia",
+      "Author": "Agatha Christie",
+      "Rating": 3.88
+    },
+    {
+      "Title": "A Fatal Grace",
+      "Author": "Louise Penny",
+      "Rating": 4.16
+    },
+    {
+      "Title": "Jack & Jill",
+      "Author": "James Patterson",
+      "Rating": 4.05
+    },
+    {
+      "Title": "Sleeping Murder",
+      "Author": "Agatha Christie",
+      "Rating": 3.93
+    },
+    {
+      "Title": "Witness in Death",
+      "Author": "J.D. Robb",
+      "Rating": 4.29
+    },
+    {
+      "Title": "After the Funeral",
+      "Author": "Agatha Christie",
+      "Rating": 3.95
+    },
+    {
+      "Title": "Unnatural Exposure",
+      "Author": "Patricia Cornwell",
+      "Rating": 4.04
+    },
+    {
+      "Title": "The Black Echo",
+      "Author": "Michael Connelly",
+      "Rating": 4.11
+    },
+    {
+      "Title": "Loyalty in Death",
+      "Author": "J.D. Robb",
+      "Rating": 4.25
+    },
+    {
+      "Title": "Portrait in Death",
+      "Author": "J.D. Robb",
+      "Rating": 4.27
+    },
+    {
+      "Title": "Judgment in Death",
+      "Author": "J.D. Robb",
+      "Rating": 4.27
+    }
+  ],
+  "Romance": [
+    {
+      "Title": "The Fault in Our Stars",
+      "Author": "John Green",
+      "Rating": 4.20
+    },
+    {
+      "Title": "Pride and Prejudice",
+      "Author": "Jane Austen",
+      "Rating": 4.26
+    },
+    {
+      "Title": "Twilight",
+      "Author": "Stephenie Meyer",
+      "Rating": 3.61
+    },
+    {
+      "Title": "Outlander",
+      "Author": "Diana Gabaldon",
+      "Rating": 4.23
+    },
+    {
+      "Title": "Fifty Shades of Grey",
+      "Author": "E.L. James",
+      "Rating": 3.68
+    },
+    {
+      "Title": "Jane Eyre",
+      "Author": "Charlotte Brontë",
+      "Rating": 4.13
+    },
+    {
+      "Title": "Me Before You",
+      "Author": "Jojo Moyes",
+      "Rating": 4.24
+    },
+    {
+      "Title": "New Moon",
+      "Author": "Stephenie Meyer",
+      "Rating": 3.53
+    },
+    {
+      "Title": "Eclipse",
+      "Author": "Stephenie Meyer",
+      "Rating": 3.70
+    },
+    {
+      "Title": "Eleanor & Park",
+      "Author": "Rainbow Rowell",
+      "Rating": 4.10
+    },
+    {
+      "Title": "Breaking Dawn",
+      "Author": "Stephenie Meyer",
+      "Rating": 3.69
+    },
+    {
+      "Title": "Fangirl",
+      "Author": "Rainbow Rowell",
+      "Rating": 4.12
+    },
+    {
+      "Title": "The Hunger Games",
+      "Author": "Suzanne Collins",
+      "Rating": 4.33
+    },
+    {
+      "Title": "The Selection",
+      "Author": "Kiera Cass",
+      "Rating": 4.15
+    },
+    {
+      "Title": "Fifty Shades Darker",
+      "Author": "E.L. James",
+      "Rating": 3.86
+    },
+    {
+      "Title": "To All the Boys I've Loved Before",
+      "Author": "Jenny Han",
+      "Rating": 4.13
+    },
+    {
+      "Title": "Where the Crawdads Sing",
+      "Author": "Delia Owens",
+      "Rating": 4.49
+    },
+    {
+      "Title": "The Time Traveler's Wife",
+      "Author": "Audrey Niffenegger",
+      "Rating": 3.97
+    },
+    {
+      "Title": "Beautiful Disaster",
+      "Author": "Jamie McGuire",
+      "Rating": 4.13
+    },
+    {
+      "Title": "Fifty Shades Freed",
+      "Author": "E.L. James",
+      "Rating": 3.88
+    },
+    {
+      "Title": "The Notebook",
+      "Author": "Nicholas Sparks",
+      "Rating": 4.11
+    },
+    {
+      "Title": "The Kiss Quotient",
+      "Author": "Helen Hoang",
+      "Rating": 4.00
+    },
+    {
+      "Title": "Red, White & Royal Blue",
+      "Author": "Casey McQuiston",
+      "Rating": 4.35
+    },
+    {
+      "Title": "Wuthering Heights",
+      "Author": "Emily Brontë",
+      "Rating": 3.88
+    },
+    {
+      "Title": "A Walk to Remember",
+      "Author": "Nicholas Sparks",
+      "Rating": 4.17
+    },
+    {
+      "Title": "Anna and the French Kiss",
+      "Author": "Stephanie Perkins",
+      "Rating": 4.04
+    },
+    {
+      "Title": "The Hating Game",
+      "Author": "Sally Thorne",
+      "Rating": 4.09
+    },
+    {
+      "Title": "The Rosie Project",
+      "Author": "Graeme Simsion",
+      "Rating": 4.01
+    },
+    {
+      "Title": "Sense and Sensibility",
+      "Author": "Jane Austen",
+      "Rating": 4.07
+    },
+    {
+      "Title": "A Court of Thorns and Roses",
+      "Author": "Sarah J. Maas",
+      "Rating": 4.22
+    },
+    {
+      "Title": "Romeo and Juliet",
+      "Author": "William Shakespeare",
+      "Rating": 3.75
+    },
+    {
+      "Title": "Divergent",
+      "Author": "Veronica Roth",
+      "Rating": 4.21
+    },
+    {
+      "Title": "Dark Lover",
+      "Author": "J.R. Ward",
+      "Rating": 4.21
+    },
+    {
+      "Title": "It Ends with Us",
+      "Author": "Colleen Hoover",
+      "Rating": 4.41
+    },
+    {
+      "Title": "A Court of Mist and Fury",
+      "Author": "Sarah J. Maas",
+      "Rating": 4.66
+    },
+    {
+      "Title": "Gone with the Wind",
+      "Author": "Margaret Mitchell",
+      "Rating": 4.30
+    },
+    {
+      "Title": "Persuasion",
+      "Author": "Jane Austen",
+      "Rating": 4.14
+    },
+    {
+      "Title": "Emma",
+      "Author": "Jane Austen",
+      "Rating": 3.99
+    },
+    {
+      "Title": "The Elite",
+      "Author": "Kiera Cass",
+      "Rating": 4.03
+    },
+    {
+      "Title": "The One",
+      "Author": "Kiera Cass",
+      "Rating": 4.21
+    },
+    {
+      "Title": "Bared to You",
+      "Author": "Sylvia Day",
+      "Rating": 4.19
+    },
+    {
+      "Title": "The Princess Bride",
+      "Author": "William Goldman",
+      "Rating": 4.26
+    },
+    {
+      "Title": "City of Bones",
+      "Author": "Cassandra Clare",
+      "Rating": 4.12
+    },
+    {
+      "Title": "Dragonfly in Amber",
+      "Author": "Diana Gabaldon",
+      "Rating": 4.32
+    },
+    {
+      "Title": "Catching Fire",
+      "Author": "Suzanne Collins",
+      "Rating": 4.29
+    },
+    {
+      "Title": "Hopeless",
+      "Author": "Colleen Hoover",
+      "Rating": 4.29
+    },
+    {
+      "Title": "Cinder",
+      "Author": "Marissa Meyer",
+      "Rating": 4.15
+    },
+    {
+      "Title": "The Great Gatsby",
+      "Author": "F. Scott Fitzgerald",
+      "Rating": 3.91
+    },
+    {
+      "Title": "The Night Circus",
+      "Author": "Erin Morgenstern",
+      "Rating": 4.04
+    },
+    {
+      "Title": "Simon vs. the Homo Sapiens Agenda",
+      "Author": "Becky Albertalli",
+      "Rating": 4.21
+    },
+    {
+      "Title": "Wallbanger",
+      "Author": "Alice Clayton",
+      "Rating": 3.77
+    },
+    {
+      "Title": "Easy",
+      "Author": "Tammara Webber",
+      "Rating": 4.11
+    },
+    {
+      "Title": "The Deal",
+      "Author": "Elle Kennedy",
+      "Rating": 4.07
+    },
+    {
+      "Title": "Daughter of Smoke & Bone",
+      "Author": "Laini Taylor",
+      "Rating": 4.03
+    },
+    {
+      "Title": "Dear John",
+      "Author": "Nicholas Sparks",
+      "Rating": 4.02
+    },
+    {
+      "Title": "Ugly Love",
+      "Author": "Colleen Hoover",
+      "Rating": 4.29
+    },
+    {
+      "Title": "Everything, Everything",
+      "Author": "Nicola Yoon",
+      "Rating": 4.07
+    },
+    {
+      "Title": "The Last Song",
+      "Author": "Nicholas Sparks",
+      "Rating": 4.15
+    },
+    {
+      "Title": "Slammed",
+      "Author": "Colleen Hoover",
+      "Rating": 4.29
+    },
+    {
+      "Title": "If I Stay",
+      "Author": "Gayle Forman",
+      "Rating": 3.95
+    },
+    {
+      "Title": "City of Glass",
+      "Author": "Cassandra Clare",
+      "Rating": 4.33
+    },
+    {
+      "Title": "Voyager",
+      "Author": "Diana Gabaldon",
+      "Rating": 4.38
+    },
+    {
+      "Title": "On Dublin Street",
+      "Author": "Samantha Young",
+      "Rating": 4.21
+    },
+    {
+      "Title": "Perfect Chemistry",
+      "Author": "Simone Elkeles",
+      "Rating": 4.06
+    },
+    {
+      "Title": "P.S. I Still Love You",
+      "Author": "Jenny Han",
+      "Rating": 4.12
+    },
+    {
+      "Title": "City of Ashes",
+      "Author": "Cassandra Clare",
+      "Rating": 4.13
+    },
+    {
+      "Title": "Maybe Someday",
+      "Author": "Colleen Hoover",
+      "Rating": 4.32
+    },
+    {
+      "Title": "Reflected in You",
+      "Author": "Sylvia Day",
+      "Rating": 4.19
+    },
+    {
+      "Title": "Throne of Glass",
+      "Author": "Sarah J. Maas",
+      "Rating": 4.23
+    },
+    {
+      "Title": "Water for Elephants",
+      "Author": "Sara Gruen",
+      "Rating": 4.10
+    },
+    {
+      "Title": "The Host",
+      "Author": "Stephenie Meyer",
+      "Rating": 3.84
+    },
+    {
+      "Title": "Mockingjay",
+      "Author": "Suzanne Collins",
+      "Rating": 4.03
+    },
+    {
+      "Title": "The Unhoneymooners",
+      "Author": "Christina Lauren",
+      "Rating": 4.11
+    },
+    {
+      "Title": "Lover Awakened",
+      "Author": "J.R. Ward",
+      "Rating": 4.45
+    },
+    {
+      "Title": "Looking for Alaska",
+      "Author": "John Green",
+      "Rating": 4.07
+    },
+    {
+      "Title": "Delirium",
+      "Author": "Lauren Oliver",
+      "Rating": 3.98
+    },
+    {
+      "Title": "Clockwork Angel",
+      "Author": "Cassandra Clare",
+      "Rating": 4.34
+    },
+    {
+      "Title": "Vampire Academy",
+      "Author": "Richelle Mead",
+      "Rating": 4.15
+    },
+    {
+      "Title": "The Complete Sherlock Holmes",
+      "Author": "Arthur Conan Doyle",
+      "Rating": 4.51
+    },
+    {
+      "Title": "A Discovery of Witches",
+      "Author": "Deborah Harkness",
+      "Rating": 4.00
+    },
+    {
+      "Title": "Scarlet",
+      "Author": "Marissa Meyer",
+      "Rating": 4.29
+    },
+    {
+      "Title": "Lola and the Boy Next Door",
+      "Author": "Stephanie Perkins",
+      "Rating": 3.98
+    },
+    {
+      "Title": "Confess",
+      "Author": "Colleen Hoover",
+      "Rating": 4.23
+    },
+    {
+      "Title": "Drums of Autumn",
+      "Author": "Diana Gabaldon",
+      "Rating": 4.36
+    },
+    {
+      "Title": "Shiver",
+      "Author": "Maggie Stiefvater",
+      "Rating": 3.99
+    },
+    {
+      "Title": "Crown of Midnight",
+      "Author": "Sarah J. Maas",
+      "Rating": 4.47
+    },
+    {
+      "Title": "Rebecca",
+      "Author": "Daphne du Maurier",
+      "Rating": 4.23
+    },
+    {
+      "Title": "Cress",
+      "Author": "Marissa Meyer",
+      "Rating": 4.14
+    }
+  ],
+  "Thriller": [
+    {
+      "Title": "Gone Girl",
+      "Author": "Gillian Flynn",
+      "Rating": 4.05
+    },
+    {
+      "Title": "The Girl on the Train",
+      "Author": "Paula Hawkins",
+      "Rating": 3.91
+    },
+    {
+      "Title": "The Da Vinci Code (Robert Langdon, #2)",
+      "Author": "Dan Brown",
+      "Rating": 3.78
+    },
+    {
+      "Title": "Sharp Objects",
+      "Author": "Gillian Flynn",
+      "Rating": 3.95
+    },
+    {
+      "Title": "The Girl with the Dragon Tattoo (Millennium, #1)",
+      "Author": "Stieg Larsson",
+      "Rating": 4.13
+    },
+    {
+      "Title": "The Shining",
+      "Author": "Stephen King",
+      "Rating": 4.23
+    },
+    {
+      "Title": "The Silence of the Lambs (Hannibal Lecter, #2)",
+      "Author": "Thomas Harris",
+      "Rating": 4.17
+    },
+    {
+      "Title": "The Woman in the Window",
+      "Author": "A.J. Finn",
+      "Rating": 3.86
+    },
+    {
+      "Title": "Shutter Island",
+      "Author": "Dennis Lehane",
+      "Rating": 4.09
+    },
+    {
+      "Title": "Dark Places",
+      "Author": "Gillian Flynn",
+      "Rating": 3.94
+    },
+    {
+      "Title": "Before I Go to Sleep",
+      "Author": "S.J. Watson",
+      "Rating": 3.87
+    },
+    {
+      "Title": "Behind Closed Doors",
+      "Author": "B.A. Paris",
+      "Rating": 3.95
+    },
+    {
+      "Title": "Angels & Demons (Robert Langdon, #1)",
+      "Author": "Dan Brown",
+      "Rating": 3.89
+    },
+    {
+      "Title": "Red Dragon (Hannibal Lecter, #1)",
+      "Author": "Thomas Harris",
+      "Rating": 4.04
+    },
+    {
+      "Title": "The Girl Who Kicked the Hornet's Nest (Millennium, #3)",
+      "Author": "Stieg Larsson",
+      "Rating": 4.21
+    },
+    {
+      "Title": "The Girl Who Played with Fire (Millennium, #2)",
+      "Author": "Stieg Larsson",
+      "Rating": 4.23
+    },
+    {
+      "Title": "And Then There Were None",
+      "Author": "Agatha Christie",
+      "Rating": 4.25
+    },
+    {
+      "Title": "The Martian",
+      "Author": "Andy Weir",
+      "Rating": 4.40
+    },
+    {
+      "Title": "The Silent Patient",
+      "Author": "Alex Michaelides",
+      "Rating": 4.07
+    },
+    {
+      "Title": "The Zombie Room",
+      "Author": "R.D. Ronald",
+      "Rating": 3.92
+    },
+    {
+      "Title": "Sometimes I Lie",
+      "Author": "Alice Feeney",
+      "Rating": 3.90
+    },
+    {
+      "Title": "The Elephant Tree",
+      "Author": "R.D. Ronald",
+      "Rating": 4.10
+    },
+    {
+      "Title": "The Day of the Jackal",
+      "Author": "Frederick Forsyth",
+      "Rating": 4.14
+    },
+    {
+      "Title": "The Hunger Games (The Hunger Games, #1)",
+      "Author": "Suzanne Collins",
+      "Rating": 4.33
+    },
+    {
+      "Title": "The Stand",
+      "Author": "Stephen King",
+      "Rating": 4.34
+    },
+    {
+      "Title": "You (You #1)",
+      "Author": "Caroline Kepnes",
+      "Rating": 4.07
+    },
+    {
+      "Title": "It",
+      "Author": "Stephen King",
+      "Rating": 4.23
+    },
+    {
+      "Title": "Deception Point",
+      "Author": "Dan Brown",
+      "Rating": 3.67
+    },
+    {
+      "Title": "A Time to Kill (Jake Brigance, #1)",
+      "Author": "John Grisham",
+      "Rating": 4.04
+    },
+    {
+      "Title": "The Couple Next Door",
+      "Author": "Shari Lapena",
+      "Rating": 3.77
+    },
+    {
+      "Title": "The Lost Symbol (Robert Langdon, #3)",
+      "Author": "Dan Brown",
+      "Rating": 3.66
+    },
+    {
+      "Title": "The Shining, Carrie and Misery",
+      "Author": "Stephen King",
+      "Rating": 4.35
+    },
+    {
+      "Title": "Tell No One",
+      "Author": "Harlan Coben",
+      "Rating": 4.09
+    },
+    {
+      "Title": "The Bourne Identity (Jason Bourne, #1)",
+      "Author": "Robert Ludlum",
+      "Rating": 4.00
+    },
+    {
+      "Title": "The Hunt for Red October (Movie Tie-In)",
+      "Author": "Tom Clancy",
+      "Rating": 4.06
+    },
+    {
+      "Title": "Killing Floor (Jack Reacher, #1)",
+      "Author": "Lee Child",
+      "Rating": 4.06
+    },
+    {
+      "Title": "Dark Matter",
+      "Author": "Blake Crouch",
+      "Rating": 4.09
+    },
+    {
+      "Title": "The Pelican Brief",
+      "Author": "John Grisham",
+      "Rating": 3.98
+    },
+    {
+      "Title": "Then She Was Gone",
+      "Author": "Lisa Jewell",
+      "Rating": 4.06
+    },
+    {
+      "Title": "Inferno (Robert Langdon, #4)",
+      "Author": "Dan Brown",
+      "Rating": 3.84
+    },
+    {
+      "Title": "Into the Darkest Corner",
+      "Author": "Elizabeth Haynes",
+      "Rating": 4.10
+    },
+    {
+      "Title": "Jurassic Park (Jurassic Park, #1)",
+      "Author": "Michael Crichton",
+      "Rating": 4.00
+    },
+    {
+      "Title": "Rebecca",
+      "Author": "Daphne du Maurier",
+      "Rating": 4.22
+    },
+    {
+      "Title": "The Surgeon (Rizzoli & Isles, #1)",
+      "Author": "Tess Gerritsen",
+      "Rating": 4.06
+    },
+    {
+      "Title": "Origin (Robert Langdon, #5)",
+      "Author": "Dan Brown",
+      "Rating": 3.86
+    },
+    {
+      "Title": "Digital Fortress",
+      "Author": "Dan Brown",
+      "Rating": 3.79
+    },
+    {
+      "Title": "The Woman in Cabin 10",
+      "Author": "Ruth Ware",
+      "Rating": 3.69
+    },
+    {
+      "Title": "Stillhouse Lake (Stillhouse Lake, #1)",
+      "Author": "Rachel Caine",
+      "Rating": 4.05
+    },
+    {
+      "Title": "The Firm",
+      "Author": "John Grisham",
+      "Rating": 3.88
+    },
+    {
+      "Title": "The Good Girl",
+      "Author": "Mary Kubica",
+      "Rating": 3.82
+    },
+    {
+      "Title": "The Good Daughter (Good Daughter, #1)",
+      "Author": "Karin Slaughter",
+      "Rating": 4.27
+    },
+    {
+      "Title": "Verity",
+      "Author": "Colleen Hoover",
+      "Rating": 4.24
+    },
+    {
+      "Title": "Kiss the Girls (Alex Cross, #2)",
+      "Author": "James Patterson",
+      "Rating": 3.97
+    },
+    {
+      "Title": "Final Girls",
+      "Author": "Riley Sager",
+      "Rating": 4.07
+    },
+    {
+      "Title": "The Spy Who Came In from the Cold",
+      "Author": "John le Carré",
+      "Rating": 4.11
+    },
+    {
+      "Title": "Carrie",
+      "Author": "Stephen King",
+      "Rating": 3.95
+    },
+    {
+      "Title": "The Client",
+      "Author": "John Grisham",
+      "Rating": 3.96
+    },
+    {
+      "Title": "Pretty Girls",
+      "Author": "Karin Slaughter",
+      "Rating": 4.18
+    },
+    {
+      "Title": "In the Woods (Dublin Murder Squad, #1)",
+      "Author": "Tana French",
+      "Rating": 3.78
+    },
+    {
+      "Title": "The Butterfly Garden (The Collector, #1)",
+      "Author": "Dot Hutchison",
+      "Rating": 4.06
+    },
+    {
+      "Title": "The Bone Collector (Lincoln Rhyme, #1)",
+      "Author": "Jeffery Deaver",
+      "Rating": 4.07
+    },
+    {
+      "Title": "The Kind Worth Killing",
+      "Author": "Peter Swanson",
+      "Rating": 4.02
+    },
+    {
+      "Title": "Gone for Good",
+      "Author": "Harlan Coben",
+      "Rating": 3.96
+    },
+    {
+      "Title": "I Let You Go",
+      "Author": "Clare Mackintosh",
+      "Rating": 4.11
+    },
+    {
+      "Title": "Sphere",
+      "Author": "Michael Crichton",
+      "Rating": 3.85
+    },
+    {
+      "Title": "Big Little Lies",
+      "Author": "Liane Moriarty",
+      "Rating": 4.24
+    },
+    {
+      "Title": "Odd Thomas (Odd Thomas, #1)",
+      "Author": "Dean Koontz",
+      "Rating": 4.15
+    },
+    {
+      "Title": "One Shot (Jack Reacher, #9)",
+      "Author": "Lee Child",
+      "Rating": 4.14
+    },
+    {
+      "Title": "11/22/63",
+      "Author": "Stephen King",
+      "Rating": 4.31
+    },
+    {
+      "Title": "Triptych (Will Trent, #1)",
+      "Author": "Karin Slaughter",
+      "Rating": 4.13
+    },
+    {
+      "Title": "Heartsick (Archie Sheridan & Gretchen Lowell, #1)",
+      "Author": "Chelsea Cain",
+      "Rating": 3.96
+    },
+    {
+      "Title": "Bird Box",
+      "Author": "Josh Malerman",
+      "Rating": 4.04
+    },
+    {
+      "Title": "In a Dark, Dark Wood",
+      "Author": "Ruth Ware",
+      "Rating": 3.70
+    },
+    {
+      "Title": "The Outsider",
+      "Author": "Stephen King",
+      "Rating": 4.06
+    },
+    {
+      "Title": "The Husband's Secret",
+      "Author": "Liane Moriarty",
+      "Rating": 3.94
+    },
+    {
+      "Title": "Mystic River",
+      "Author": "Dennis Lehane",
+      "Rating": 4.20
+    },
+    {
+      "Title": "Defending Jacob",
+      "Author": "William Landay",
+      "Rating": 4.07
+    },
+    {
+      "Title": "Fight Club",
+      "Author": "Chuck Palahniuk",
+      "Rating": 4.21
+    },
+    {
+      "Title": "The Andromeda Strain",
+      "Author": "Michael Crichton",
+      "Rating": 3.89
+    },
+    {
+      "Title": "Perfume",
+      "Author": "Patrick Süskind",
+      "Rating": 4.02
+    },
+    {
+      "Title": "The Wife Between Us",
+      "Author": "Greer Hendricks",
+      "Rating": 3.87
+    },
+    {
+      "Title": "Along Came a Spider (Alex Cross, #1)",
+      "Author": "James Patterson",
+      "Rating": 4.11
+    },
+    {
+      "Title": "Finders Keepers (Bill Hodges Trilogy, #2)",
+      "Author": "Stephen King",
+      "Rating": 4.07
+    },
+    {
+      "Title": "Caught",
+      "Author": "Harlan Coben",
+      "Rating": 3.95
+    },
+    {
+      "Title": "Still Missing",
+      "Author": "Chevy Stevens",
+      "Rating": 3.94
+    },
+    {
+      "Title": "Casino Royale (James Bond, #1)",
+      "Author": "Ian Fleming",
+      "Rating": 3.75
+    },
+    {
+      "Title": "Déjà Dead (Temperance Brennan, #1)",
+      "Author": "Kathy Reichs",
+      "Rating": 3.89
+    },
+    {
+      "Title": "Watchers",
+      "Author": "Dean Koontz",
+      "Rating": 4.18
+    },
+    {
+      "Title": "Into the Water",
+      "Author": "Paula Hawkins",
+      "Rating": 3.65
+    },
+    {
+      "Title": "The Last Juror",
+      "Author": "John Grisham",
+      "Rating": 3.90
+    },
+    {
+      "Title": "The Cuckoo's Calling (Cormoran Strike, #1)",
+      "Author": "Robert Galbraith",
+      "Rating": 3.85
+    },
+    {
+      "Title": "Under the Dome",
+      "Author": "Stephen King",
+      "Rating": 3.91
+    },
+    {
+      "Title": "I Am Watching You",
+      "Author": "Teresa Driscoll",
+      "Rating": 4.06
+    },
+    {
+      "Title": "Mr. Mercedes (Bill Hodges Trilogy, #1)",
+      "Author": "Stephen King",
+      "Rating": 4.05
+    },
+    {
+      "Title": "The Runaway Jury",
+      "Author": "John Grisham",
+      "Rating": 3.96
+    },
+    {
+      "Title": "Lock Every Door",
+      "Author": "Riley Sager",
+      "Rating": 4.04
+    },
+    {
+      "Title": "The Last Time I Lied",
+      "Author": "Riley Sager",
+      "Rating": 3.96
+    },
+    {
+      "Title": "The Turn of the Key",
+      "Author": "Ruth Ware",
+      "Rating": 3.92
+    },
+    {
+      "Title": "Pines (Wayward Pines, #1)",
+      "Author": "Blake Crouch",
+      "Rating": 4.09
+    },
+    {
+      "Title": "The Institute",
+      "Author": "Stephen King",
+      "Rating": 4.17
+    }
+  ],
+  "Fiction": [
+    {
+      "Title": "To Kill a Mockingbird",
+      "Author": "Harper Lee",
+      "Rating": 4.27
+    },
+    {
+      "Title": "Harry Potter and the Sorcerer's Stone",
+      "Author": "J.K. Rowling",
+      "Rating": 4.48
+    },
+    {
+      "Title": "Animal Farm",
+      "Author": "George Orwell",
+      "Rating": 3.93
+    },
+    {
+      "Title": "The Handmaid's Tale",
+      "Author": "Margaret Atwood",
+      "Rating": 4.10
+    },
+    {
+      "Title": "The Great Gatsby",
+      "Author": "F. Scott Fitzgerald",
+      "Rating": 3.93
+    },
+    {
+      "Title": "The Hunger Games (The Hunger Games, #1)",
+      "Author": "Suzanne Collins",
+      "Rating": 4.33
+    },
+    {
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "Rating": 3.88
+    },
+    {
+      "Title": "The Hobbit",
+      "Author": "J.R.R. Tolkien",
+      "Rating": 4.28
+    },
+    {
+      "Title": "The Catcher in the Rye",
+      "Author": "J.D. Salinger",
+      "Rating": 3.80
+    },
+    {
+      "Title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.41
+    },
+    {
+      "Title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.57
+    },
+    {
+      "Title": "The Kite Runner",
+      "Author": "Khaled Hosseini",
+      "Rating": 4.28
+    },
+    {
+      "Title": "Lord of the Flies",
+      "Author": "William Golding",
+      "Rating": 3.69
+    },
+    {
+      "Title": "Brave New World",
+      "Author": "Aldous Huxley",
+      "Rating": 3.98
+    },
+    {
+      "Title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.55
+    },
+    {
+      "Title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.49
+    },
+    {
+      "Title": "The Da Vinci Code (Robert Langdon, #2)",
+      "Author": "Dan Brown",
+      "Rating": 3.83
+    },
+    {
+      "Title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.62
+    },
+    {
+      "Title": "Pride and Prejudice",
+      "Author": "Jane Austen",
+      "Rating": 4.27
+    },
+    {
+      "Title": "The Help",
+      "Author": "Kathryn Stockett",
+      "Rating": 4.47
+    },
+    {
+      "Title": "The Book Thief",
+      "Author": "Markus Zusak",
+      "Rating": 4.38
+    },
+    {
+      "Title": "Catching Fire (The Hunger Games, #2)",
+      "Author": "Suzanne Collins",
+      "Rating": 4.29
+    },
+    {
+      "Title": "The Fault in Our Stars",
+      "Author": "John Green",
+      "Rating": 4.20
+    },
+    {
+      "Title": "Where the Crawdads Sing",
+      "Author": "Delia Owens",
+      "Rating": 4.49
+    },
+    {
+      "Title": "Jane Eyre",
+      "Author": "Charlotte Brontë",
+      "Rating": 4.12
+    },
+    {
+      "Title": "Life of Pi",
+      "Author": "Yann Martel",
+      "Rating": 3.91
+    },
+    {
+      "Title": "The Curious Incident of the Dog in the Night-Time",
+      "Author": "Mark Haddon",
+      "Rating": 3.88
+    },
+    {
+      "Title": "Slaughterhouse-Five",
+      "Author": "Kurt Vonnegut",
+      "Rating": 4.08
+    },
+    {
+      "Title": "Harry Potter And The Half Blood Prince Deluxe Gift Book",
+      "Author": "J.K. Rowling",
+      "Rating": 4.57
+    },
+    {
+      "Title": "Fahrenheit 451",
+      "Author": "Ray Bradbury",
+      "Rating": 4.00
+    },
+    {
+      "Title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+      "Author": "George R.R. Martin",
+      "Rating": 4.46
+    },
+    {
+      "Title": "The Girl with the Dragon Tattoo (Millennium, #1)",
+      "Author": "Stieg Larsson",
+      "Rating": 4.13
+    },
+    {
+      "Title": "A Thousand Splendid Suns",
+      "Author": "Khaled Hosseini",
+      "Rating": 4.38
+    },
+    {
+      "Title": "One Hundred Years of Solitude",
+      "Author": "Gabriel Garcia Marquez",
+      "Rating": 4.10
+    },
+    {
+      "Title": "The Road",
+      "Author": "Cormac McCarthy",
+      "Rating": 3.96
+    },
+    {
+      "Title": "Mockingjay (The Hunger Games, #3)",
+      "Author": "Suzanne Collins",
+      "Rating": 4.03
+    },
+    {
+      "Title": "The Martian",
+      "Author": "Andy Weir",
+      "Rating": 4.40
+    },
+    {
+      "Title": "The Hitchhiker's Guide To The Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+      "Author": "Douglas Adams",
+      "Rating": 4.23
+    },
+    {
+      "Title": "Dune (Dune Chronicles, #1)",
+      "Author": "Frank Herbert",
+      "Rating": 4.23
+    },
+    {
+      "Title": "Gone Girl",
+      "Author": "Gillian Flynn",
+      "Rating": 4.06
+    },
+    {
+      "Title": "Of Mice and Men",
+      "Author": "John Steinbeck",
+      "Rating": 3.86
+    },
+    {
+      "Title": "All the Light We Cannot See",
+      "Author": "Anthony Doerr",
+      "Rating": 4.33
+    },
+    {
+      "Title": "Catch-22",
+      "Author": "Joseph Heller",
+      "Rating": 4.05
+    },
+    {
+      "Title": "Angels & Demons (Robert Langdon, #1)",
+      "Author": "Dan Brown",
+      "Rating": 3.89
+    },
+    {
+      "Title": "Memoirs of a Geisha",
+      "Author": "Arthur Golden",
+      "Rating": 4.11
+    },
+    {
+      "Title": "Frankenstein",
+      "Author": "Mary Shelley",
+      "Rating": 3.78
+    },
+    {
+      "Title": "Ready Player One",
+      "Author": "Ernest Cline",
+      "Rating": 4.24
+    },
+    {
+      "Title": "Crime and Punishment",
+      "Author": "Fyodor Dostoevsky",
+      "Rating": 4.21
+    },
+    {
+      "Title": "Little Women",
+      "Author": "Louisa May Alcott",
+      "Rating": 4.07
+    },
+    {
+      "Title": "The Perks of Being a Wallflower",
+      "Author": "Stephen Chbosky",
+      "Rating": 4.21
+    },
+    {
+      "Title": "The Lord of the Rings",
+      "Author": "J.R.R. Tolkien",
+      "Rating": 4.50
+    },
+    {
+      "Title": "American Gods (American Gods, #1)",
+      "Author": "Neil Gaiman",
+      "Rating": 4.12
+    },
+    {
+      "Title": "The Adventures of Huckleberry Finn",
+      "Author": "Mark Twain",
+      "Rating": 3.82
+    },
+    {
+      "Title": "Ender's Game",
+      "Author": "Orson Scott Card",
+      "Rating": 4.31
+    },
+    {
+      "Title": "The Picture of Dorian Gray",
+      "Author": "Oscar Wilde",
+      "Rating": 4.09
+    },
+    {
+      "Title": "The Time Traveler's Wife",
+      "Author": "Audrey Niffenegger",
+      "Rating": 3.96
+    },
+    {
+      "Title": "The Old Man and the Sea",
+      "Author": "Ernest Hemingway",
+      "Rating": 3.76
+    },
+    {
+      "Title": "Water for Elephants",
+      "Author": "Sara Gruen",
+      "Rating": 4.08
+    },
+    {
+      "Title": "Lolita",
+      "Author": "Vladimir Nabokov",
+      "Rating": 3.90
+    },
+    {
+      "Title": "The Little Prince Family Storybook",
+      "Author": "Antoine de Saint-Exupéry",
+      "Rating": 4.30
+    },
+    {
+      "Title": "The Grapes of Wrath",
+      "Author": "John Steinbeck",
+      "Rating": 4.10
+    },
+    {
+      "Title": "The Giver (The Giver, #1)",
+      "Author": "Lois Lowry",
+      "Rating": 4.13
+    },
+    {
+      "Title": "Wuthering Heights",
+      "Author": "Emily Brontë",
+      "Rating": 3.85
+    },
+    {
+      "Title": "The Girl on the Train",
+      "Author": "Paula Hawkins",
+      "Rating": 3.90
+    },
+    {
+      "Title": "The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.22
+    },
+    {
+      "Title": "The Lovely Bones",
+      "Author": "Alice Sebold",
+      "Rating": 3.81
+    },
+    {
+      "Title": "Anna Karenina",
+      "Author": "Leo Tolstoy",
+      "Rating": 4.05
+    },
+    {
+      "Title": "A Man Called Ove",
+      "Author": "Fredrik Backman",
+      "Rating": 4.36
+    },
+    {
+      "Title": "The Lord of the Rings (The Lord of the Rings, #1-3)",
+      "Author": "J.R.R. Tolkien",
+      "Rating": 4.50
+    },
+    {
+      "Title": "East of Eden",
+      "Author": "John Steinbeck",
+      "Rating": 4.37
+    },
+    {
+      "Title": "The Girl Who Played with Fire (Millennium, #2)",
+      "Author": "Stieg Larsson",
+      "Rating": 4.23
+    },
+    {
+      "Title": "Little Fires Everywhere",
+      "Author": "Celeste Ng",
+      "Rating": 4.11
+    },
+    {
+      "Title": "Dracula",
+      "Author": "Bram Stoker",
+      "Rating": 4.00
+    },
+    {
+      "Title": "1984",
+      "Author": "George Orwell",
+      "Rating": 4.19
+    },
+    {
+      "Title": "The Stranger",
+      "Author": "Albert Camus",
+      "Rating": 3.97
+    },
+    {
+      "Title": "The Secret Life of Bees",
+      "Author": "Sue Monk Kidd",
+      "Rating": 4.05
+    },
+    {
+      "Title": "Atlas Shrugged",
+      "Author": "Ayn Rand",
+      "Rating": 3.70
+    },
+    {
+      "Title": "Good Omens",
+      "Author": "Neil Gaiman & Terry Pratchett",
+      "Rating": 4.25
+    },
+    {
+      "Title": "A Clash of Kings (A Song of Ice and Fire, #2)",
+      "Author": "George R.R. Martin",
+      "Rating": 4.41
+    },
+    {
+      "Title": "Fight Club",
+      "Author": "Chuck Palahniuk",
+      "Rating": 4.21
+    },
+    {
+      "Title": "Eleanor Oliphant Is Completely Fine",
+      "Author": "Gail Honeyman",
+      "Rating": 4.28
+    },
+    {
+      "Title": "The Return of the King (The Lord of the Rings, #3)",
+      "Author": "J.R.R. Tolkien",
+      "Rating": 4.53
+    },
+    {
+      "Title": "Middlesex",
+      "Author": "Jeffrey Eugenides",
+      "Rating": 4.04
+    },
+    {
+      "Title": "The Count of Monte Cristo",
+      "Author": "Alexandre Dumas",
+      "Rating": 4.25
+    },
+    {
+      "Title": "The Poisonwood Bible",
+      "Author": "Barbara Kingsolver",
+      "Rating": 4.03
+    },
+    {
+      "Title": "The Two Towers (The Lord of the Rings, #2)",
+      "Author": "J.R.R. Tolkien",
+      "Rating": 4.44
+    },
+    {
+      "Title": "Divergent (Divergent, #1)",
+      "Author": "Veronica Roth",
+      "Rating": 4.22
+    },
+    {
+      "Title": "The Bell Jar",
+      "Author": "Sylvia Plath",
+      "Rating": 4.00
+    },
+    {
+      "Title": "The Goldfinch",
+      "Author": "Donna Tartt",
+      "Rating": 3.90
+    },
+    {
+      "Title": "A Tale of Two Cities",
+      "Author": "Charles Dickens",
+      "Rating": 3.83
+    },
+    {
+      "Title": "The Brothers Karamazov",
+      "Author": "Fyodor Dostoevsky",
+      "Rating": 4.32
+    },
+    {
+      "Title": "The Girl Who Kicked the Hornet's Nest (Millennium, #3)",
+      "Author": "Stieg Larsson",
+      "Rating": 4.21
+    },
+    {
+      "Title": "Twilight (Twilight, #1)",
+      "Author": "Stephenie Meyer",
+      "Rating": 3.59
+    },
+    {
+      "Title": "One Flew Over the Cuckoo's Nest",
+      "Author": "Ken Kesey",
+      "Rating": 4.22
+    },
+    {
+      "Title": "Great Expectations",
+      "Author": "Charles Dickens",
+      "Rating": 3.77
+    },
+    {
+      "Title": "The Ocean at the End of the Lane",
+      "Author": "Neil Gaiman",
+      "Rating": 4.03
+    },
+    {
+      "Title": "Room",
+      "Author": "Emma Donoghue",
+      "Rating": 4.05
+    },
+    {
+      "Title": "The Shining",
+      "Author": "Stephen King",
+      "Rating": 4.21
+    },
+    {
+      "Title": "A Storm of Swords (A Song of Ice and Fire, #3)",
+      "Author": "George R.R. Martin",
+      "Rating": 4.54
+    },
+    {
+      "Title": "The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",
+      "Author": "Carlos Ruiz Zafón",
+      "Rating": 4.24
+    }
+  ],
+  "Adventure": [
+    {
+      "Title": "Harry Potter and the Sorcerer's Stone",
+      "Author": "J.K. Rowling",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Hobbit",
+      "Author": "J.R.R. Tolkien",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Hunger Games (The Hunger Games, #1)",
+      "Author": "Suzanne Collins",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Catching Fire (The Hunger Games, #2)",
+      "Author": "Suzanne Collins",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+      "Author": "Rick Riordan",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Mockingjay (The Hunger Games, #3)",
+      "Author": "Suzanne Collins",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Harry Potter And The Half Blood Prince Deluxe Gift Book",
+      "Author": "J.K. Rowling",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Treasure Island",
+      "Author": "Robert Louis Stevenson",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Lord of the Rings",
+      "Author": "J.R.R. Tolkien",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Martian",
+      "Author": "Andy Weir",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Adventures of Huckleberry Finn",
+      "Author": "Mark Twain",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Sea of Monsters (Percy Jackson and the Olympians, #2)",
+      "Author": "Rick Riordan",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Ready Player One",
+      "Author": "Ernest Cline",
+      "Rating": 4.3
+    },
+    {
+      "Title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+      "Author": "George R.R. Martin",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Titan's Curse (Percy Jackson and the Olympians, #3)",
+      "Author": "Rick Riordan",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Last Olympian (Percy Jackson and the Olympians, #5)",
+      "Author": "Rick Riordan",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Count of Monte Cristo",
+      "Author": "Alexandre Dumas",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",
+      "Author": "Rick Riordan",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Princess Bride",
+      "Author": "William Goldman",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Divergent (Divergent, #1)",
+      "Author": "Veronica Roth",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Return of the King (The Lord of the Rings, #3)",
+      "Author": "J.R.R. Tolkien",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Two Towers (The Lord of the Rings, #2)",
+      "Author": "J.R.R. Tolkien",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Into Thin Air",
+      "Author": "Jon Krakauer",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Life of Pi",
+      "Author": "Yann Martel",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Lord of the Rings (The Lord of the Rings, #1-3)",
+      "Author": "J.R.R. Tolkien",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Da Vinci Code (Robert Langdon, #2)",
+      "Author": "Dan Brown",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Lord of the Flies",
+      "Author": "William Golding",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Hatchet (Brian's Saga, #1)",
+      "Author": "Gary Paulsen",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Into the Wild",
+      "Author": "Jon Krakauer",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Eragon (The Inheritance Cycle #1)",
+      "Author": "Christopher Paolini",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Maze Runner (The Maze Runner, #1)",
+      "Author": "James Dashner",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Golden Compass (His Dark Materials, #1)",
+      "Author": "Philip Pullman",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Wild",
+      "Author": "Cheryl Strayed",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Around the World in Eighty Days (Extraordinary Voyages, #11)",
+      "Author": "Jules Verne",
+      "Rating": 4.0
+    },
+    {
+      "Title": "20,000 Leagues Under the Sea",
+      "Author": "Jules Verne",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Three Musketeers (The D'Artagnan Romances, #1)",
+      "Author": "Alexandre Dumas",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Name of the Wind (The Kingkiller Chronicle, #1)",
+      "Author": "Patrick Rothfuss",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Odyssey",
+      "Author": "Homer",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Son of Neptune (The Heroes of Olympus, #2)",
+      "Author": "Rick Riordan",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Adventures of Tom Sawyer",
+      "Author": "Mark Twain",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Hitchhiker's Guide To The Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+      "Author": "Douglas Adams",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Angels & Demons (Robert Langdon, #1)",
+      "Author": "Dan Brown",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Mark of Athena (The Heroes of Olympus, #3)",
+      "Author": "Rick Riordan",
+      "Rating": 4.3
+    },
+    {
+      "Title": "A Clash of Kings (A Song of Ice and Fire, #2)",
+      "Author": "George R.R. Martin",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Moby-Dick",
+      "Author": "Herman Melville",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Graceling (Graceling Realm, #1)",
+      "Author": "Kristin Cashore",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Jurassic Park (Jurassic Park, #1)",
+      "Author": "Michael Crichton",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Call of the Wild",
+      "Author": "Jack London",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Insurgent (Divergent, #2)",
+      "Author": "Veronica Roth",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The House of Hades (The Heroes of Olympus, #4)",
+      "Author": "Rick Riordan",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Endurance",
+      "Author": "Alfred Lansing",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Six of Crows (Six of Crows, #1)",
+      "Author": "Leigh Bardugo",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Watership Down",
+      "Author": "Richard Adams",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Alice's Adventures in Wonderland & Through the Looking-Glass",
+      "Author": "Lewis Carroll",
+      "Rating": 4.1
+    },
+    {
+      "Title": "A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",
+      "Author": "Madeleine L'Engle",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Ender's Game",
+      "Author": "Orson Scott Card",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Journey to the Center of the Earth (Extraordinary Voyages, #3)",
+      "Author": "Jules Verne",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Red Pyramid (The Kane Chronicles, #1)",
+      "Author": "Rick Riordan",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Outlander (Outlander, #1)",
+      "Author": "Diana Gabaldon",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Stardust",
+      "Author": "Neil Gaiman",
+      "Rating": 4.1
+    },
+    {
+      "Title": "A Storm of Swords (A Song of Ice and Fire, #3)",
+      "Author": "George R.R. Martin",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Magician's Nephew (Chronicles of Narnia, #6)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Blood of Olympus (The Heroes of Olympus, #5)",
+      "Author": "Rick Riordan",
+      "Rating": 4.4
+    },
+    {
+      "Title": "City of Bones (The Mortal Instruments, #1)",
+      "Author": "Cassandra Clare",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Holes (Holes, #1)",
+      "Author": "Louis Sachar",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Throne of Glass (Throne of Glass, #1)",
+      "Author": "Sarah J. Maas",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Subtle Knife (His Dark Materials, #2)",
+      "Author": "Philip Pullman",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Ruins of Gorlan (Ranger's Apprentice, #1)",
+      "Author": "John Flanagan",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Prince Caspian (Chronicles of Narnia, #2)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Robinson Crusoe",
+      "Author": "Daniel Defoe",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)",
+      "Author": "Ransom Riggs",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Artemis Fowl (Artemis Fowl, #1)",
+      "Author": "Eoin Colfer",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Howl's Moving Castle (Howl's Moving Castle, #1)",
+      "Author": "Diana Wynne Jones",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Eldest (The Inheritance Cycle, #2)",
+      "Author": "Christopher Paolini",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Lies of Locke Lamora (Gentleman Bastard, #1)",
+      "Author": "Scott Lynch",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Cress (The Lunar Chronicles, #3)",
+      "Author": "Marissa Meyer",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Touching the Void",
+      "Author": "Joe Simpson",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Scarlet (The Lunar Chronicles, #2)",
+      "Author": "Marissa Meyer",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Peter Pan",
+      "Author": "J.M. Barrie",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Mysterious Benedict Society (The Mysterious Benedict Society, #1)",
+      "Author": "Trenton Lee Stewart",
+      "Rating": 4.0
+    },
+    {
+      "Title": "White Fang",
+      "Author": "Jack London",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Scorch Trials (The Maze Runner, #2)",
+      "Author": "James Dashner",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Brisingr (The Inheritance Cycle, #3)",
+      "Author": "Christopher Paolini",
+      "Rating": 4.0
+    },
+    {
+      "Title": "A Walk in the Woods",
+      "Author": "Bill Bryson",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Old Man and the Sea",
+      "Author": "Ernest Hemingway",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Crown of Midnight (Throne of Glass, #2)",
+      "Author": "Sarah J. Maas",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Inkheart (Inkworld, #1)",
+      "Author": "Cornelia Funke",
+      "Rating": 4.0
+    },
+    {
+      "Title": "City of Glass (The Mortal Instruments, #3)",
+      "Author": "Cassandra Clare",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Horse and His Boy (Chronicles of Narnia, #5)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The False Prince (The Ascendance Series, #1)",
+      "Author": "Jennifer A. Nielsen",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Wonderful Wizard of Oz (Oz, #1)",
+      "Author": "L. Frank Baum",
+      "Rating": 4.0
+    }
+  ],
+  "Biography": [
+    {
+      "Title": "Educated",
+      "Author": "Tara Westover",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Unbroken",
+      "Author": "Laura Hillenbrand",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Diary of a Young Girl",
+      "Author": "Anne Frank",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Man's Search for Meaning",
+      "Author": "Viktor E. Frankl",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Becoming",
+      "Author": "Michelle Obama",
+      "Rating": 4.7
+    },
+    {
+      "Title": "Born a Crime",
+      "Author": "Trevor Noah",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Immortal Life of Henrietta Lacks",
+      "Author": "Rebecca Skloot",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Elon Musk",
+      "Author": "Ashlee Vance",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Alexander Hamilton",
+      "Author": "Ron Chernow",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Shoe Dog",
+      "Author": "Phil Knight",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Einstein",
+      "Author": "Walter Isaacson",
+      "Rating": 4.3
+    },
+    {
+      "Title": "When Breath Becomes Air",
+      "Author": "Paul Kalanithi",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Leonardo da Vinci",
+      "Author": "Walter Isaacson",
+      "Rating": 4.4
+    },
+    {
+      "Title": "John Adams",
+      "Author": "David McCullough",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Autobiography of Malcolm X",
+      "Author": "Malcolm X",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Benjamin Franklin",
+      "Author": "Walter Isaacson",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Surely You're Joking, Mr. Feynman!",
+      "Author": "Richard P. Feynman",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Glass Castle",
+      "Author": "Jeannette Walls",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Team of Rivals",
+      "Author": "Doris Kearns Goodwin",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Hillbilly Elegy",
+      "Author": "J.D. Vance",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Hiding Place",
+      "Author": "Corrie ten Boom",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Night",
+      "Author": "Elie Wiesel",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Bossypants",
+      "Author": "Tina Fey",
+      "Rating": 4.5
+    },
+    {
+      "Title": "I Am Malala",
+      "Author": "Malala Yousafzai",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Into the Wild",
+      "Author": "Jon Krakauer",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Last Lecture",
+      "Author": "Randy Pausch",
+      "Rating": 4.2
+    },
+    {
+      "Title": "I Know Why the Caged Bird Sings",
+      "Author": "Maya Angelou",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Washington",
+      "Author": "Ron Chernow",
+      "Rating": 4.5
+    },
+    {
+      "Title": "On Writing",
+      "Author": "Stephen King",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Catherine the Great",
+      "Author": "Robert K. Massie",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Titan",
+      "Author": "Ron Chernow",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Long Walk To Freedom",
+      "Author": "Nelson Mandela",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Rise of Theodore Roosevelt",
+      "Author": "Edmund Morris",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Bonhoeffer",
+      "Author": "Eric Metaxas",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Wild",
+      "Author": "Cheryl Strayed",
+      "Rating": 4.3
+    },
+    {
+      "Title": "A Child Called 'It'",
+      "Author": "Dave Pelzer",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Wright Brothers",
+      "Author": "David McCullough",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Grant",
+      "Author": "Ron Chernow",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Everything Store",
+      "Author": "Brad Stone",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Angela's Ashes",
+      "Author": "Frank McCourt",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Yes Please",
+      "Author": "Amy Poehler",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Open",
+      "Author": "Andre Agassi",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Dreams from My Father",
+      "Author": "Barack Obama",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Tuesdays with Morrie",
+      "Author": "Mitch Albom",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Extreme Ownership",
+      "Author": "Jocko Willink and Leif Babin",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Catch and Kill",
+      "Author": "Ronan Farrow",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Just Kids",
+      "Author": "Patti Smith",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Between the World and Me",
+      "Author": "Ta-Nehisi Coates",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The 5 Love Languages",
+      "Author": "Gary Chapman",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Narrative of the Life of Frederick Douglass",
+      "Author": "Frederick Douglass",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Kitchen Confidential",
+      "Author": "Anthony Bourdain",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Brain on Fire",
+      "Author": "Susannah Cahalan",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Wild Swans",
+      "Author": "Jung Chang",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The 48 Laws of Power",
+      "Author": "Robert Greene",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Cleopatra",
+      "Author": "Stacy Schiff",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Hidden Figures",
+      "Author": "Margot Lee Shetterly",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Boys in the Boat",
+      "Author": "Daniel James Brown",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Is Everyone Hanging Out Without Me?",
+      "Author": "Mindy Kaling",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Born Standing Up",
+      "Author": "Steve Martin",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Fun Home",
+      "Author": "Alison Bechdel",
+      "Rating": 4.3
+    },
+    {
+      "Title": "A Beautiful Mind",
+      "Author": "Sylvia Nasar",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Notorious RBG",
+      "Author": "Irin Carmon and Shana Knizhnik",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Power Broker",
+      "Author": "Robert A. Caro",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Path to Power",
+      "Author": "Robert A. Caro",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Theodore Rex",
+      "Author": "Edmund Morris",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Permanent Record",
+      "Author": "Edward Snowden",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Steve Jobs",
+      "Author": "Walter Isaacson",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Snowball",
+      "Author": "Alice Schroeder",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Good Neighbor",
+      "Author": "Maxwell King",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Story of My Life",
+      "Author": "Helen Keller",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Thomas Jefferson",
+      "Author": "Jon Meacham",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Story of My Experiments with Truth",
+      "Author": "Mahatma Gandhi",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Eat, Pray, Love",
+      "Author": "Elizabeth Gilbert",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Orange Is the New Black",
+      "Author": "Piper Kerman",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Mountains Beyond Mountains",
+      "Author": "Tracy Kidder",
+      "Rating": 4.3
+    },
+    {
+      "Title": "You're Never Weird on the Internet (Almost)",
+      "Author": "Felicia Day",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Just Mercy",
+      "Author": "Bryan Stevenson",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Destiny of the Republic",
+      "Author": "Candice Millard",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Persepolis",
+      "Author": "Marjane Satrapi",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Professor and the Madman",
+      "Author": "Simon Winchester",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Into Thin Air",
+      "Author": "Jon Krakauer",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Spy and the Traitor",
+      "Author": "Ben Macintyre",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Upstairs at the White House",
+      "Author": "J.B. West",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Life",
+      "Author": "Keith Richards",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Infidel",
+      "Author": "Ayaan Hirsi Ali",
+      "Rating": 4.3
+    },
+    {
+      "Title": "American Sniper",
+      "Author": "Chris Kyle",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Ride of a Lifetime",
+      "Author": "Robert Iger",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Complete Maus",
+      "Author": "Art Spiegelman",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Genghis Khan and the Making of the Modern World",
+      "Author": "Jack Weatherford",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Twelve Years a Slave",
+      "Author": "Solomon Northup",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Untamed",
+      "Author": "Glennon Doyle",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Complete Persepolis",
+      "Author": "Marjane Satrapi",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Nicholas and Alexandra",
+      "Author": "Robert K. Massie",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Endurance",
+      "Author": "Alfred Lansing",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Can't Hurt Me",
+      "Author": "David Goggins",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Maus I: A Survivor's Tale",
+      "Author": "Art Spiegelman",
+      "Rating": 4.2
+    },
+    {
+      "Title": "An Astronaut's Guide to Life on Earth",
+      "Author": "Chris Hadfield",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Five Presidents",
+      "Author": "Clint Hill",
+      "Rating": 4.5
+    },
+    {
+      "Title": "His Excellency",
+      "Author": "Joseph J. Ellis",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Mornings on Horseback",
+      "Author": "David McCullough",
+      "Rating": 4.3
+    }
+  ],
+  "History": [
+    {
+      "Title": "Sapiens",
+      "Author": "Yuval Noah Harari",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Guns, Germs and Steel",
+      "Author": "Jared Diamond",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Man's Search for Meaning",
+      "Author": "Viktor E. Frankl",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Unbroken",
+      "Author": "Laura Hillenbrand",
+      "Rating": 4.4
+    },
+    {
+      "Title": "A People's History of the United States",
+      "Author": "Howard Zinn",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Diary of a Young Girl",
+      "Author": "Anne Frank",
+      "Rating": 4.7
+    },
+    {
+      "Title": "Team of Rivals",
+      "Author": "Doris Kearns Goodwin",
+      "Rating": 4.5
+    },
+    {
+      "Title": "A Short History of Nearly Everything",
+      "Author": "Bill Bryson",
+      "Rating": 4.4
+    },
+    {
+      "Title": "1491",
+      "Author": "Charles C. Mann",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Devil in the White City",
+      "Author": "Erik Larson",
+      "Rating": 4.2
+    },
+    {
+      "Title": "1776",
+      "Author": "David McCullough",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Immortal Life of Henrietta Lacks",
+      "Author": "Rebecca Skloot",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Night",
+      "Author": "Elie Wiesel",
+      "Rating": 4.7
+    },
+    {
+      "Title": "The Art of War",
+      "Author": "Sun Tzu",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Killers of the Flower Moon",
+      "Author": "David Grann",
+      "Rating": 4.3
+    },
+    {
+      "Title": "John Adams",
+      "Author": "David McCullough",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Guns of August",
+      "Author": "Barbara W. Tuchman",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Rise and Fall of the Third Reich",
+      "Author": "William L. Shirer",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Bury My Heart at Wounded Knee",
+      "Author": "Dee Brown",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Alexander Hamilton",
+      "Author": "Ron Chernow",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Boys in the Boat",
+      "Author": "Daniel James Brown",
+      "Rating": 4.2
+    },
+    {
+      "Title": "In the Garden of Beasts",
+      "Author": "Erik Larson",
+      "Rating": 4.6
+    },
+    {
+      "Title": "SPQR",
+      "Author": "Mary Beard",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Genghis Khan and the Making of the Modern World",
+      "Author": "Jack Weatherford",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Collapse",
+      "Author": "Jared Diamond",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Warmth of Other Suns",
+      "Author": "Isabel Wilkerson",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Dead Wake",
+      "Author": "Erik Larson",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Lessons of History",
+      "Author": "Will Durant and Ariel Durant",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Hidden Figures",
+      "Author": "Margot Lee Shetterly",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Homo Deus",
+      "Author": "Yuval Noah Harari",
+      "Rating": 4.3
+    },
+    {
+      "Title": "King Leopold's Ghost",
+      "Author": "Adam Hochschild",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Band of Brothers",
+      "Author": "Stephen E. Ambrose",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Endurance",
+      "Author": "Alfred Lansing",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Silk Roads",
+      "Author": "Peter Frankopan",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Professor and the Madman",
+      "Author": "Simon Winchester",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Extreme Ownership",
+      "Author": "Jocko Willink and Leif Babin",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Autobiography of Malcolm X",
+      "Author": "Malcolm X",
+      "Rating": 4.6
+    },
+    {
+      "Title": "A Distant Mirror",
+      "Author": "Barbara W. Tuchman",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Hiding Place",
+      "Author": "Corrie ten Boom",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Catch and Kill",
+      "Author": "Ronan Farrow",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Undaunted Courage",
+      "Author": "Stephen E. Ambrose",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Destiny of the Republic",
+      "Author": "Candice Millard",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Things They Carried",
+      "Author": "Tim O'Brien",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Lies My Teacher Told Me",
+      "Author": "James W. Loewen",
+      "Rating": 4.4
+    },
+    {
+      "Title": "A Brief History of Time",
+      "Author": "Stephen Hawking",
+      "Rating": 4.3
+    },
+    {
+      "Title": "In the Heart of the Sea",
+      "Author": "Nathaniel Philbrick",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Great Influenza",
+      "Author": "John M. Barry",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The New Jim Crow",
+      "Author": "Michelle Alexander",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Catherine the Great",
+      "Author": "Robert K. Massie",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Prince",
+      "Author": "Niccolò Machiavelli",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Wright Brothers",
+      "Author": "David McCullough",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Ghost Map",
+      "Author": "Steven Johnson",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Book Thief",
+      "Author": "Markus Zusak",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Battle Cry of Freedom",
+      "Author": "James M. McPherson",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Radium Girls",
+      "Author": "Kate Moore",
+      "Rating": 4.3
+    },
+    {
+      "Title": "At Home",
+      "Author": "Bill Bryson",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Spy and the Traitor",
+      "Author": "Ben Macintyre",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Histories",
+      "Author": "Herodotus",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Salt",
+      "Author": "Mark Kurlansky",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Benjamin Franklin",
+      "Author": "Walter Isaacson",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Founding Brothers",
+      "Author": "Joseph J. Ellis",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Longitude",
+      "Author": "Dava Sobel",
+      "Rating": 4.6
+    },
+    {
+      "Title": "History of the Peloponnesian War",
+      "Author": "Thucydides",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Stalingrad",
+      "Author": "Antony Beevor",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Worst Hard Time",
+      "Author": "Timothy Egan",
+      "Rating": 4.3
+    },
+    {
+      "Title": "How the Irish Saved Civilization",
+      "Author": "Thomas Cahill",
+      "Rating": 4.2
+    },
+    {
+      "Title": "1493",
+      "Author": "Charles C. Mann",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Talking to Strangers",
+      "Author": "Malcolm Gladwell",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Looming Tower",
+      "Author": "Lawrence Wright",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Empire of the Summer Moon",
+      "Author": "S.C. Gwynne",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Mayflower",
+      "Author": "Nathaniel Philbrick",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Maus I: A Survivor's Tale",
+      "Author": "Art Spiegelman",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Six Wives of Henry VIII",
+      "Author": "Alison Weir",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Voices from Chernobyl",
+      "Author": "Svetlana Alexievich",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Hiroshima",
+      "Author": "John Hersey",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Time Traveller's Guide to Medieval England",
+      "Author": "Ian Mortimer",
+      "Rating": 4.2
+    },
+    {
+      "Title": "One Summer",
+      "Author": "Bill Bryson",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Complete Maus",
+      "Author": "Art Spiegelman",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Narrative of the Life of Frederick Douglass",
+      "Author": "Frederick Douglass",
+      "Rating": 4.4
+    },
+    {
+      "Title": "On Tyranny",
+      "Author": "Timothy Snyder",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Postwar",
+      "Author": "Tony Judt",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Midnight in Chernobyl",
+      "Author": "Adam Higginbotham",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The River of Doubt",
+      "Author": "Candice Millard",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Rape of Nanking",
+      "Author": "Iris Chang",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Homage to Catalonia",
+      "Author": "George Orwell",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Bloodlands",
+      "Author": "Timothy Snyder",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Rise of Theodore Roosevelt",
+      "Author": "Edmund Morris",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Rubicon",
+      "Author": "Tom Holland",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Nothing to Envy",
+      "Author": "Barbara Demick",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Gulag Archipelago",
+      "Author": "Aleksandr Solzhenitsyn",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Washington",
+      "Author": "Ron Chernow",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Better Angels of Our Nature",
+      "Author": "Steven Pinker",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Lost City of Z",
+      "Author": "David Grann",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Wild Swans",
+      "Author": "Jung Chang",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Federalist Papers",
+      "Author": "Alexander Hamilton, James Madison, and John Jay",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Killing Lincoln",
+      "Author": "Bill O'Reilly and Martin Dugard",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Say Nothing",
+      "Author": "Patrick Radden Keefe",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Plantagenets",
+      "Author": "Dan Jones",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Emperor of All Maladies",
+      "Author": "Siddhartha Mukherjee",
+      "Rating": 4.4
+    },
+    {
+      "Title": "All the President's Men",
+      "Author": "Bob Woodward and Carl Bernstein",
+      "Rating": 4.3
+    }
+  ],
+  "Comedy": [
+    {
+      "Title": "The Hitchhiker's Guide To The Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+      "Author": "Douglas Adams",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Born a Crime",
+      "Author": "Trevor Noah",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Bossypants",
+      "Author": "Tina Fey",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Good Omens",
+      "Author": "Neil Gaiman, Terry Pratchett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Is Everyone Hanging Out Without Me? (And Other Concerns)",
+      "Author": "Mindy Kaling",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",
+      "Author": "Douglas Adams",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)",
+      "Author": "Douglas Adams",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Me Talk Pretty One Day",
+      "Author": "David Sedaris",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Yes Please",
+      "Author": "Amy Poehler",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Hyperbole and a Half",
+      "Author": "Allie Brosh",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Catch-22",
+      "Author": "Joseph Heller",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Colour of Magic",
+      "Author": "Terry Pratchett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Born Standing Up",
+      "Author": "Steve Martin",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Princess Bride",
+      "Author": "William Goldman",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Lamb",
+      "Author": "Christopher Moore",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy, #3)",
+      "Author": "Douglas Adams",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Dad Is Fat",
+      "Author": "Jim Gaffigan",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Rosie Project (Don Tillman, #1)",
+      "Author": "Graeme Simsion",
+      "Rating": 4.3
+    },
+    {
+      "Title": "A Confederacy of Dunces (35th Anniversary Edition)",
+      "Author": "John Kennedy Toole",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Importance of Being Earnest & Other Plays",
+      "Author": "Oscar Wilde",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Mort (Death, #1; Discworld, #4)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.1
+    },
+    {
+      "Title": "So Long, and Thanks for All the Fish (Hitchhiker's Guide to the Galaxy, #4)",
+      "Author": "Douglas Adams",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Guards! Guards! (Discworld, #8; City Watch #1)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Let's Pretend This Never Happened",
+      "Author": "Jenny Lawson",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Dress Your Family in Corduroy & Denim",
+      "Author": "David Sedaris",
+      "Rating": 4.2
+    },
+    {
+      "Title": "America (The Book)",
+      "Author": "Jon Stewart",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Small Gods (Discworld, #13)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Light Fantastic (Discworld, #2; Rincewind #2)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Modern Romance",
+      "Author": "Aziz Ansari",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)",
+      "Author": "Douglas Adams",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Equal Rites (Discworld, #3; Witches, #1)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Assuming Names",
+      "Author": "Tanya Thompson",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Going Postal (Discworld, #33; Moist von Lipwig, #1)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Naked",
+      "Author": "David Sedaris",
+      "Rating": 4.1
+    },
+    {
+      "Title": "A Midsummer Night's Dream",
+      "Author": "William Shakespeare",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Wyrd Sisters (Discworld, #6; Witches #2)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "A Dirty Job (Grim Reaper, #1)",
+      "Author": "Christopher Moore",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Sh*t My Dad Says",
+      "Author": "Justin Halpern",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Why Not Me?",
+      "Author": "Mindy Kaling",
+      "Rating": 4.1
+    },
+    {
+      "Title": "When You Are Engulfed in Flames",
+      "Author": "David Sedaris",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Reaper Man (Discworld, #11; Death, #2)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Dirk Gently's Holistic Detective Agency (Dirk Gently, #1)",
+      "Author": "Douglas Adams",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Furiously Happy",
+      "Author": "Jenny Lawson",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Bridget Jones's Diary (Bridget Jones, #1)",
+      "Author": "Helen Fielding",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Are You There, Vodka? It's Me, Chelsea",
+      "Author": "Chelsea Handler",
+      "Rating": 4.2
+    },
+    {
+      "Title": "What If? Serious Scientific Answers to Absurd Hypothetical Questions",
+      "Author": "Randall Munroe",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Girl with the Lower Back Tattoo",
+      "Author": "Amy Schumer",
+      "Rating": 4.3
+    },
+    {
+      "Title": "One for the Money (Stephanie Plum, #1)",
+      "Author": "Janet Evanovich",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Go the Fuck to Sleep",
+      "Author": "Adam Mansbach",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Red Russia",
+      "Author": "Tanya Thompson",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Hogfather (Discworld, #20; Death, #4)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Sourcery (Discworld, #5; Rincewind #3)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Martian",
+      "Author": "Andy Weir",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Diary of a Wimpy Kid (Diary of a Wimpy Kid, #1)",
+      "Author": "Jeff Kinney",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Much Ado About Nothing",
+      "Author": "William Shakespeare",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Men at Arms (Discworld, #15; City Watch #2)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Seriously... I'm Kidding",
+      "Author": "Ellen DeGeneres",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Witches Abroad (Discworld, #12; Witches #3)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Feet of Clay (Discworld, #19; City Watch, #3)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Pyramids (Discworld, #7)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Fifth Elephant (Discworld, #24; City Watch, #5)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Long Dark Tea-Time of the Soul (Dirk Gently, #2)",
+      "Author": "Douglas Adams",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Thud! (Discworld, #34; City Watch #7)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Thief of Time (Discworld, #26; Death, #5)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.2
+    },
+    {
+      "Title": "My Horizontal Life",
+      "Author": "Chelsea Handler",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Let's Explore Diabetes with Owls",
+      "Author": "David Sedaris",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Making Money (Discworld, #36; Moist Von Lipwig, #2)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Moving Pictures (Discworld, #10; Industrial Revolution, #1)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Fool",
+      "Author": "Christopher Moore",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The 100-Year-Old Man Who Climbed Out the Window and Disappeared (The Hundred-Year-Old Man, #1)",
+      "Author": "Jonas Jonasson",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Lords and Ladies (Discworld, #14; Witches #4)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Wee Free Men (Discworld, #30; Tiffany Aching, #1)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Where the Sidewalk Ends",
+      "Author": "Shel Silverstein",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Carpe Jugulum (Discworld #23; Witches #6)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Jingo (Discworld, #21; City Watch, #4)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Monstrous Regiment (Discworld, #31; Industrial Revolution, #3)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Slaughterhouse-Five",
+      "Author": "Kurt Vonnegut",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Soul Music (Discworld, #16; Death, #3)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Mastering Stand-Up",
+      "Author": "Stephen Rosenfield",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Chelsea Chelsea Bang Bang",
+      "Author": "Chelsea Handler",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Bloodsucking Fiends (A Love Story, #1)",
+      "Author": "Christopher Moore",
+      "Rating": 4.0
+    },
+    {
+      "Title": "John Dies at the End (John Dies at the End, #1)",
+      "Author": "David Wong",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Eric (Discworld, #9; Rincewind #4)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Maskerade (Discworld, #18; Witches #5)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Hot Six (Stephanie Plum, #6)",
+      "Author": "Janet Evanovich",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Two for the Dough (Stephanie Plum, #2)",
+      "Author": "Janet Evanovich",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Redshirts",
+      "Author": "John Scalzi",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Four to Score (Stephanie Plum, #4)",
+      "Author": "Janet Evanovich",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Cat's Cradle",
+      "Author": "Kurt Vonnegut",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Last Continent (Discworld, #22; Rincewind #6)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.1
+    },
+    {
+      "Title": "High Five (Stephanie Plum, #5)",
+      "Author": "Janet Evanovich",
+      "Rating": 4.3
+    },
+    {
+      "Title": "I Can't Make This Up",
+      "Author": "Kevin Hart",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Code of the Woosters (Jeeves, #7)",
+      "Author": "P.G. Wodehouse",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Hard Eight (Stephanie Plum, #8)",
+      "Author": "Janet Evanovich",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Rodrick Rules (Diary of a Wimpy Kid, #2)",
+      "Author": "Jeff Kinney",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Freaks I've Met",
+      "Author": "Donald Jans",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Twelfth Night",
+      "Author": "William Shakespeare",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Three Men in a Boat (Three Men, #1)",
+      "Author": "Jerome K. Jerome",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Holidays on Ice",
+      "Author": "David Sedaris",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Truth (Discworld, #25; Industrial Revolution, #2)",
+      "Author": "Terry Pratchett",
+      "Rating": 4.2
+    }
+  ],
+  "Science_and_technology": [
+    {
+      "Title": "Steve Jobs",
+      "Author": "Walter Isaacson",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Bad Blood",
+      "Author": "John Carreyrou",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Zero to One",
+      "Author": "Peter Thiel",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Elon Musk",
+      "Author": "Ashlee Vance",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Inevitable",
+      "Author": "Kevin Kelly",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Innovators",
+      "Author": "Walter Isaacson",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Shallows",
+      "Author": "Nicholas Carr",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Innovator's Dilemma",
+      "Author": "Clayton M. Christensen",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Lean Startup",
+      "Author": "Eric Ries",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Everything Store",
+      "Author": "Brad Stone",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Homo Deus",
+      "Author": "Yuval Noah Harari",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Superintelligence",
+      "Author": "Nick Bostrom",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Ready Player One",
+      "Author": "Ernest Cline",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Amusing Ourselves to Death",
+      "Author": "Neil Postman",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Life 3.0",
+      "Author": "Max Tegmark",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Permanent Record",
+      "Author": "Edward Snowden",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Second Machine Age",
+      "Author": "Erik Brynjolfsson, Andrew McAfee",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Singularity is Near",
+      "Author": "Ray Kurzweil",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Phoenix Project",
+      "Author": "Gene Kim, Kevin Behr, George Spafford",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Algorithms to Live By",
+      "Author": "Brian Christian, Tom Griffiths",
+      "Rating": 4.3
+    },
+    {
+      "Title": "In the Plex",
+      "Author": "Steven Levy",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Information",
+      "Author": "James Gleick",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Digital Minimalism",
+      "Author": "Cal Newport",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Master Switch",
+      "Author": "Tim Wu",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Hooked",
+      "Author": "Nir Eyal",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Pragmatic Programmer",
+      "Author": "Andrew Hunt, David Thomas",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Sapiens",
+      "Author": "Yuval Noah Harari",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Weapons of Math Destruction",
+      "Author": "Cathy O'Neil",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Don't Make Me Think, Revisited",
+      "Author": "Steve Krug",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Industries of the Future",
+      "Author": "Alec Ross",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Ghost in the Wires",
+      "Author": "Kevin Mitnick",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Soul of a New Machine",
+      "Author": "Tracy Kidder",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Mythical Man-Month",
+      "Author": "Frederick P. Brooks Jr.",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Rise of the Robots",
+      "Author": "Martin Ford",
+      "Rating": 4.4
+    },
+    {
+      "Title": "AI Superpowers",
+      "Author": "Kai-Fu Lee",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Irresistible",
+      "Author": "Adam Alter",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Code",
+      "Author": "Charles Petzold",
+      "Rating": 4.1
+    },
+    {
+      "Title": "What Technology Wants",
+      "Author": "Kevin Kelly",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Start with Why",
+      "Author": "Simon Sinek",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Hackers",
+      "Author": "Steven Levy",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Abundance",
+      "Author": "Peter H. Diamandis, Steven Kotler",
+      "Rating": 4.3
+    },
+    {
+      "Title": "How Google Works",
+      "Author": "Eric Schmidt, Jonathan Rosenberg",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Everybody Lies",
+      "Author": "Seth Stephens-Davidowitz",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Design of Everyday Things",
+      "Author": "Don Norman",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Guns, Germs and Steel",
+      "Author": "Jared Diamond",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Hard Thing About Hard Things",
+      "Author": "Ben Horowitz",
+      "Rating": 4.0
+    },
+    {
+      "Title": "You Are Not a Gadget",
+      "Author": "Jaron Lanier",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Clean Code",
+      "Author": "Robert C. Martin",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Age of Surveillance Capitalism",
+      "Author": "Shoshana Zuboff",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Martian",
+      "Author": "Andy Weir",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Filter Bubble",
+      "Author": "Eli Pariser",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Cuckoo's Egg",
+      "Author": "Cliff Stoll",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Alone Together",
+      "Author": "Sherry Turkle",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Circle",
+      "Author": "Dave Eggers",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Idea Factory",
+      "Author": "Jon Gertner",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Code Book",
+      "Author": "Simon Singh",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Hello World",
+      "Author": "Hannah Fry",
+      "Rating": 4.2
+    },
+    {
+      "Title": "How We Got to Now",
+      "Author": "Steven Johnson",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Cryptonomicon",
+      "Author": "Neal Stephenson",
+      "Rating": 4.3
+    },
+    {
+      "Title": "No Place to Hide",
+      "Author": "Glenn Greenwald",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Countdown to Zero Day",
+      "Author": "Kim Zetter",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Mr. Penumbra's 24-Hour Bookstore",
+      "Author": "Robin Sloan",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Data and Goliath",
+      "Author": "Bruce Schneier",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Hackers & Painters",
+      "Author": "Paul Graham",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Daemon",
+      "Author": "Daniel Suarez",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Creativity, Inc.",
+      "Author": "Ed Catmull, Amy Wallace",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Masters of Doom",
+      "Author": "David Kushner",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Four",
+      "Author": "Scott Galloway",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Where Wizards Stay Up Late",
+      "Author": "Katie Hafner, Matthew Lyon",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Future Crimes",
+      "Author": "Marc Goodman",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Master Algorithm",
+      "Author": "Pedro Domingos",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Big Data",
+      "Author": "Viktor Mayer-Schönberger, Kenneth Cukier",
+      "Rating": 4.0
+    },
+    {
+      "Title": "21 Lessons for the 21st Century",
+      "Author": "Yuval Noah Harari",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Here Comes Everybody",
+      "Author": "Clay Shirky",
+      "Rating": 4.1
+    },
+    {
+      "Title": "iWoz: Computer Geek to Cult Icon",
+      "Author": "Steve Wozniak, Gina Smith",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The World Is Flat",
+      "Author": "Thomas L. Friedman",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Design Patterns",
+      "Author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Snow Crash",
+      "Author": "Neal Stephenson",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Hit Refresh",
+      "Author": "Satya Nadella, Greg Shaw, Jill Tracie Nichols",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Perennial Seller",
+      "Author": "Ryan Holiday",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Upstarts",
+      "Author": "Brad Stone",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Victorian Internet",
+      "Author": "Tom Standage",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Code Complete",
+      "Author": "Steve McConnell",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Hatching Twitter",
+      "Author": "Nick Bilton",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Smarter Than You Think",
+      "Author": "Clive Thompson",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Crossing the Chasm",
+      "Author": "Geoffrey A. Moore",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Invisible Women",
+      "Author": "Caroline Criado Pérez",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Art of Invisibility",
+      "Author": "Kevin Mitnick",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Soonish",
+      "Author": "Kelly Weinersmith, Zach Weinersmith",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Cognitive Surplus",
+      "Author": "Clay Shirky",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Who Owns the Future?",
+      "Author": "Jaron Lanier",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Digital Gold",
+      "Author": "Nathaniel Popper",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Facebook Effect",
+      "Author": "David Kirkpatrick",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Out of Control",
+      "Author": "Kevin Kelly",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Packing for Mars",
+      "Author": "Mary Roach",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Chaos Monkeys",
+      "Author": "Antonio García Martínez",
+      "Rating": 4.1
+    },
+    {
+      "Title": "American Kingpin",
+      "Author": "Nick Bilton",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Age of Spiritual Machines",
+      "Author": "Ray Kurzweil",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Our Final Invention",
+      "Author": "James Barrat",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Glass Cage",
+      "Author": "Nicholas Carr",
+      "Rating": 4.1
+    }
+  ],
+  "Children": [
+    {
+      "Title": "Where the Wild Things Are",
+      "Author": "Maurice Sendak",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Harry Potter and the Sorcerer's Stone",
+      "Author": "J.K. Rowling",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Charlotte's Web",
+      "Author": "E.B. White",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Giving Tree",
+      "Author": "Shel Silverstein",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Little Prince Family Storybook",
+      "Author": "Antoine de Saint-Exupéry",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.7
+    },
+    {
+      "Title": "Where the Sidewalk Ends",
+      "Author": "Shel Silverstein",
+      "Rating": 4.6
+    },
+    {
+      "Title": "Matilda",
+      "Author": "Roald Dahl",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.8
+    },
+    {
+      "Title": "Charlie And The Chocolate Factory",
+      "Author": "Roald Dahl",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Secret Garden",
+      "Author": "Frances Hodgson Burnett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Green Eggs and Ham",
+      "Author": "Dr. Seuss",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.8
+    },
+    {
+      "Title": "The Cat in the Hat",
+      "Author": "Dr. Seuss",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.9
+    },
+    {
+      "Title": "The Very Hungry Caterpillar",
+      "Author": "Eric Carle",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Goodnight Moon",
+      "Author": "Margaret Wise Brown",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The BFG",
+      "Author": "Roald Dahl",
+      "Rating": 4.5
+    },
+    {
+      "Title": "How the Grinch Stole Christmas!",
+      "Author": "Dr. Seuss",
+      "Rating": 4.4
+    },
+    {
+      "Title": "James and the Giant Peach",
+      "Author": "Roald Dahl",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Alice's Adventures in Wonderland & Through the Looking-Glass",
+      "Author": "Lewis Carroll",
+      "Rating": 4.5
+    },
+    {
+      "Title": "A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",
+      "Author": "Madeleine L'Engle",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Oh, the Places You'll Go!",
+      "Author": "Dr. Seuss",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Lorax",
+      "Author": "Dr. Seuss",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Love You Forever",
+      "Author": "Robert Munsch",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Winnie-the-Pooh (Winnie-the-Pooh, #1)",
+      "Author": "A.A. Milne",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Harry Potter And The Half Blood Prince Deluxe Gift Book",
+      "Author": "J.K. Rowling",
+      "Rating": 4.7
+    },
+    {
+      "Title": "The Velveteen Rabbit",
+      "Author": "Margery Williams Bianco",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Hobbit",
+      "Author": "J.R.R. Tolkien",
+      "Rating": 4.7
+    },
+    {
+      "Title": "The Witches",
+      "Author": "Roald Dahl",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Wind in the Willows",
+      "Author": "Kenneth Grahame",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Coraline",
+      "Author": "Neil Gaiman",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Phantom Tollbooth",
+      "Author": "Norton Juster",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Anne of Green Gables (Anne of Green Gables, #1)",
+      "Author": "L.M. Montgomery",
+      "Rating": 4.5
+    },
+    {
+      "Title": "A Light in the Attic",
+      "Author": "Shel Silverstein",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Bad Beginning (A Series of Unfortunate Events, #1)",
+      "Author": "Lemony Snicket",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+      "Author": "Judith Viorst",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Wonderful Wizard of Oz (Oz, #1)",
+      "Author": "L. Frank Baum",
+      "Rating": 4.4
+    },
+    {
+      "Title": "A Mouse Cookie First Library",
+      "Author": "Laura Joffe Numeroff",
+      "Rating": 4.2
+    },
+    {
+      "Title": "From the Mixed-Up Files of Mrs. Basil E. Frankweiler",
+      "Author": "E.L. Konigsburg",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Little House on the Prairie (Little House, #2)",
+      "Author": "Laura Ingalls Wilder",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Graveyard Book",
+      "Author": "Neil Gaiman",
+      "Rating": 4.5
+    },
+    {
+      "Title": "One Fish, Two Fish, Red Fish, Blue Fish",
+      "Author": "Dr. Seuss",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Pippi Longstocking",
+      "Author": "Astrid Lindgren",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Magician's Nephew (Chronicles of Narnia, #6)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+      "Author": "Rick Riordan",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Bridge to Terabithia",
+      "Author": "Katherine Paterson",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Holes (Holes, #1)",
+      "Author": "Louis Sachar",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Tale of Peter Rabbit",
+      "Author": "Beatrix Potter",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Little House in the Big Woods (Little House, #1)",
+      "Author": "Laura Ingalls Wilder",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Giver (The Giver, #1)",
+      "Author": "Lois Lowry",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Peter Pan",
+      "Author": "J.M. Barrie",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Little Women",
+      "Author": "Louisa May Alcott",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Wonky Donkey",
+      "Author": "Craig Smith",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.5
+    },
+    {
+      "Title": "A Little Princess",
+      "Author": "Frances Hodgson Burnett",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Prince Caspian (Chronicles of Narnia, #2)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Corduroy",
+      "Author": "Don Freeman",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Madeline",
+      "Author": "Ludwig Bemelmans",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Brown Bear, Brown Bear, What Do You See?",
+      "Author": "Bill Martin Jr., Eric Carle",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Fantastic Mr. Fox",
+      "Author": "Roald Dahl",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Are You My Mother? (Beginner Books B-18)",
+      "Author": "P.D. Eastman",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Polar Express",
+      "Author": "Chris Van Allsburg",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Golden Compass (His Dark Materials, #1)",
+      "Author": "Philip Pullman",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Cloudy With a Chance of Meatballs",
+      "Author": "Judi Barrett",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Horton Hears a Who!",
+      "Author": "Dr. Seuss",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Black Beauty",
+      "Author": "Anna Sewell",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Chronicles of Narnia (Chronicles of Narnia, #1-7)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Twits",
+      "Author": "Roald Dahl",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Silver Chair (Chronicles of Narnia, #4)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Number the Stars",
+      "Author": "Lois Lowry",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Little Engine That Could",
+      "Author": "Watty Piper",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Horse and His Boy (Chronicles of Narnia, #5)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Monster at the End of this Book",
+      "Author": "Jon Stone",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Reptile Room (A Series of Unfortunate Events, #2)",
+      "Author": "Lemony Snicket",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Where the Red Fern Grows",
+      "Author": "Wilson Rawls",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Alice's Adventures in Wonderland (Wisehouse Classics - Original 1865 Edition with the Complete Illustrations by Sir John Tenniel) (2016)",
+      "Author": "Lewis Carroll",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The True Story of the 3 Little Pigs",
+      "Author": "Jon Scieszka",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Tales of Beedle the Bard (Hogwarts Library Book)",
+      "Author": "J.K. Rowling",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Island of the Blue Dolphins (Island of the Blue Dolphins, #1)",
+      "Author": "Scott O'Dell",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Last Battle (Chronicles of Narnia, #7)",
+      "Author": "C.S. Lewis",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Harold and the Purple Crayon (Harold, #1)",
+      "Author": "Crockett Johnson",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Snowy Day (Peter, #1)",
+      "Author": "Ezra Jack Keats",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Mrs. Frisby and the Rats of NIMH (Rats of NIMH, #1)",
+      "Author": "Robert C. O'Brien",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Wide Window (A Series of Unfortunate Events, #3)",
+      "Author": "Lemony Snicket",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Tale of Despereaux",
+      "Author": "Kate DiCamillo",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Invention of Hugo Cabret",
+      "Author": "Brian Selznick",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Stinky Cheese Man",
+      "Author": "Jon Scieszka",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Sea of Monsters (Percy Jackson and the Olympians, #2)",
+      "Author": "Rick Riordan",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Don't Let the Pigeon Drive the Bus!",
+      "Author": "Mo Willems",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Guess How Much I Love You",
+      "Author": "Sam McBratney",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Ella Enchanted (Ella Enchanted #1)",
+      "Author": "Gail Carson Levine",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Charlie and the Great Glass Elevator (Charlie Bucket, #2)",
+      "Author": "Roald Dahl",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Story of Ferdinand",
+      "Author": "Munro Leaf",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Make Way for Ducklings",
+      "Author": "Robert McCloskey",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Heidi (Heidi, #1-2)",
+      "Author": "Johanna Spyri",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Watership Down",
+      "Author": "Richard Adams",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Falling Up",
+      "Author": "Shel Silverstein",
+      "Rating": 4.2
+    }
+  ],
+  "Poetry": [
+    {
+      "Title": "Milk and Honey",
+      "Author": "Rupi Kaur",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Where the Sidewalk Ends",
+      "Author": "Shel Silverstein",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Sun and Her Flowers",
+      "Author": "Rupi Kaur",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Odyssey",
+      "Author": "Homer",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Leaves of Grass",
+      "Author": "Walt Whitman",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Princess Saves Herself in this One (Women are Some Kind of Magic, #1)",
+      "Author": "Amanda Lovelace",
+      "Rating": 4.3
+    },
+    {
+      "Title": "A Light in the Attic",
+      "Author": "Shel Silverstein",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Prophet",
+      "Author": "Kahlil Gibran",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Iliad",
+      "Author": "Homer",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Howl and Other Poems",
+      "Author": "Allen Ginsberg",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Ariel",
+      "Author": "Sylvia Plath",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Citizen",
+      "Author": "Claudia Rankine",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Essential Rumi",
+      "Author": "Rumi",
+      "Rating": 4.6
+    },
+    {
+      "Title": "The Complete Poems of Emily Dickinson",
+      "Author": "Emily Dickinson",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Paradise Lost",
+      "Author": "John Milton",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Giving Tree",
+      "Author": "Shel Silverstein",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Shakespeare's Sonnets",
+      "Author": "William Shakespeare",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Poems of Robert Frost",
+      "Author": "Robert Frost",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Falling Up",
+      "Author": "Shel Silverstein",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Salt",
+      "Author": "Nayyirah Waheed",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Old Possum's Book of Practical Cats",
+      "Author": "T.S. Eliot",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Twenty Love Poems and a Song of Despair",
+      "Author": "Pablo Neruda",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Poet X",
+      "Author": "Elizabeth Acevedo",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Complete Stories and Poems",
+      "Author": "Edgar Allan Poe",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Les Fleurs du Mal",
+      "Author": "Charles Baudelaire",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Collected Poems",
+      "Author": "Langston Hughes",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Inferno",
+      "Author": "Dante Alighieri",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Night Sky with Exit Wounds",
+      "Author": "Ocean Vuong",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Waste Land and Other Poems",
+      "Author": "T.S. Eliot",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Crush",
+      "Author": "Richard Siken",
+      "Rating": 4.1
+    },
+    {
+      "Title": "A Thousand Mornings",
+      "Author": "Mary Oliver",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Beowulf",
+      "Author": "Unknown",
+      "Rating": 4.0
+    },
+    {
+      "Title": "Brown Girl Dreaming",
+      "Author": "Jacqueline Woodson",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Rime of the Ancient Mariner",
+      "Author": "Samuel Taylor Coleridge",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Teaching My Mother How to Give Birth",
+      "Author": "Warsan Shire",
+      "Rating": 4.2
+    },
+    {
+      "Title": "If Not, Winter",
+      "Author": "Sappho",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Collected Poems of W.B. Yeats",
+      "Author": "W.B. Yeats",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Divine Comedy",
+      "Author": "Dante Alighieri",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Witch Doesn't Burn in This One (Women Are Some Kind of Magic, #2)",
+      "Author": "Amanda Lovelace",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Love & Misadventure",
+      "Author": "Lang Leav",
+      "Rating": 4.2
+    },
+    {
+      "Title": "No Matter the Wreckage",
+      "Author": "Sarah Kay",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Raven",
+      "Author": "Edgar Allan Poe",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Waste Land",
+      "Author": "T.S. Eliot",
+      "Rating": 4.1
+    },
+    {
+      "Title": "New and Selected Poems, Volume One",
+      "Author": "Mary Oliver",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Letters to a Young Poet",
+      "Author": "Rainer Maria Rilke",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Autobiography of Red",
+      "Author": "Anne Carson",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Songs of Innocence and of Experience",
+      "Author": "William Blake",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Aeneid",
+      "Author": "Virgil",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Complete Poems",
+      "Author": "Anne Sexton",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Salt, Fat, Acid, Heat",
+      "Author": "Samin Nosrat",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Collected Poems of Dylan Thomas",
+      "Author": "Dylan Thomas",
+      "Rating": 4.2
+    },
+    {
+      "Title": "100 Selected Poems",
+      "Author": "e.e. cummings",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Love Her Wild",
+      "Author": "Atticus Poetry",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Pillow Thoughts",
+      "Author": "Courtney Peppernell",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Long Way Down",
+      "Author": "Jason Reynolds",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Inward",
+      "Author": "Yung Pueblo",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Selected Poetry of Rainer Maria Rilke",
+      "Author": "Rainer Maria Rilke",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Don't Call Us Dead",
+      "Author": "Danez Smith",
+      "Rating": 4.1
+    },
+    {
+      "Title": "I Know Why the Caged Bird Sings",
+      "Author": "Maya Angelou",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Four Quartets",
+      "Author": "T.S. Eliot",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Canterbury Tales",
+      "Author": "Geoffrey Chaucer",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Love That Dog (Jack, #1)",
+      "Author": "Sharon Creech",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Lullabies",
+      "Author": "Lang Leav",
+      "Rating": 4.0
+    },
+    {
+      "Title": "The Complete Poems 1927-1979",
+      "Author": "Elizabeth Bishop",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Sailing Alone Around the Room",
+      "Author": "Billy Collins",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Depression & Other Magic Tricks",
+      "Author": "Sabrina Benaim",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Gmorning, Gnight!",
+      "Author": "Lin-Manuel Miranda",
+      "Rating": 4.3
+    },
+    {
+      "Title": "رباعيات خيام",
+      "Author": "Omar Khayyám",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Complete Collected Poems",
+      "Author": "Maya Angelou",
+      "Rating": 4.5
+    },
+    {
+      "Title": "Collected Poems, 1909-1962",
+      "Author": "T.S. Eliot",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Rose That Grew From Concrete",
+      "Author": "Tupac Shakur",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Devotions",
+      "Author": "Mary Oliver",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Dr. Seuss's Beginner Book Collection (Cat in the Hat, One Fish Two Fish, Green Eggs and Ham, Hop on Pop)",
+      "Author": "Dr. Seuss",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Collected Poems",
+      "Author": "Sylvia Plath",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Metamorphoses",
+      "Author": "Ovid",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Melancholy Death of Oyster Boy and Other Stories",
+      "Author": "Tim Burton",
+      "Rating": 4.1
+    },
+    {
+      "Title": "How the Grinch Stole Christmas!",
+      "Author": "Dr. Seuss",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Her",
+      "Author": "Pierre Alex Jeanty",
+      "Rating": 4.2
+    },
+    {
+      "Title": "E.E. Cummings",
+      "Author": "E.E. Cummings",
+      "Rating": 4.4
+    },
+    {
+      "Title": "The Universe of Us",
+      "Author": "Lang Leav",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Selected Poems",
+      "Author": "Pablo Neruda",
+      "Rating": 4.3
+    },
+    {
+      "Title": "I Wrote This For You (I Wrote This For You #4)",
+      "Author": "pleasefindthis",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Collected Poems of Emily Dickinson",
+      "Author": "Emily Dickinson",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Life on Mars",
+      "Author": "Tracy K. Smith",
+      "Rating": 4.5
+    },
+    {
+      "Title": "The Crossover",
+      "Author": "Kwame Alexander",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Collected Poems",
+      "Author": "W.H. Auden",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Bluets",
+      "Author": "Maggie Nelson",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Dog Songs",
+      "Author": "Mary Oliver",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Book of Longing",
+      "Author": "Leonard Cohen",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Shout",
+      "Author": "Laurie Halse Anderson",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Road Not Taken and Other Poems",
+      "Author": "Robert Frost",
+      "Rating": 4.1
+    },
+    {
+      "Title": "Birthday Letters",
+      "Author": "Ted Hughes",
+      "Rating": 4.3
+    },
+    {
+      "Title": "The Poetry of Pablo Neruda",
+      "Author": "Pablo Neruda",
+      "Rating": 4.4
+    },
+    {
+      "Title": "Dream Work",
+      "Author": "Mary Oliver",
+      "Rating": 4.2
+    },
+    {
+      "Title": "Inside Out & Back Again",
+      "Author": "Thanhha Lai",
+      "Rating": 4.3
+    },
+    {
+      "Title": "Lunch Poems",
+      "Author": "Frank O'Hara",
+      "Rating": 4.1
+    },
+    {
+      "Title": "The Colossus and Other Poems",
+      "Author": "Sylvia Plath",
+      "Rating": 4.2
+    },
+    {
+      "Title": "The Mermaid's Voice Returns in This One (Women Are Some Kind of Magic, #3)",
+      "Author": "Amanda Lovelace",
+      "Rating": 4.3
+    },
+    {
+      "Title": "100 Love Sonnets",
+      "Author": "Pablo Neruda",
+      "Rating": 4.5
+    }
+  ],
+  "Drama": [
+    {
+      "Title": "Hamlet",
+      "Author": "William Shakespeare",
+      "Rating": 4.01
+    },
+    {
+      "Title": "Romeo and Juliet",
+      "Author": "William Shakespeare",
+      "Rating": 3.76
+    },
+    {
+      "Title": "Macbeth",
+      "Author": "William Shakespeare",
+      "Rating": 3.90
+    },
+    {
+      "Title": "King Lear",
+      "Author": "William Shakespeare",
+      "Rating": 3.92
+    },
+    {
+      "Title": "The Fault in Our Stars",
+      "Author": "John Green",
+      "Rating": 4.21
+    },
+    {
+      "Title": "A Midsummer Night's Dream",
+      "Author": "William Shakespeare",
+      "Rating": 3.94
+    },
+    {
+      "Title": "Death of a Salesman",
+      "Author": "Arthur Miller",
+      "Rating": 3.55
+    },
+    {
+      "Title": "Othello",
+      "Author": "William Shakespeare",
+      "Rating": 3.89
+    },
+    {
+      "Title": "To Kill a Mockingbird",
+      "Author": "Harper Lee",
+      "Rating": 4.28
+    },
+    {
+      "Title": "The Tempest",
+      "Author": "William Shakespeare",
+      "Rating": 3.78
+    },
+    {
+      "Title": "The Crucible",
+      "Author": "Arthur Miller",
+      "Rating": 3.60
+    },
+    {
+      "Title": "Waiting for Godot",
+      "Author": "Samuel Beckett",
+      "Rating": 3.81
+    },
+    {
+      "Title": "A Streetcar Named Desire",
+      "Author": "Tennessee Williams",
+      "Rating": 3.99
+    },
+    {
+      "Title": "The Kite Runner",
+      "Author": "Khaled Hosseini",
+      "Rating": 4.31
+    },
+    {
+      "Title": "The Importance of Being Earnest",
+      "Author": "Oscar Wilde",
+      "Rating": 4.13
+    },
+    {
+      "Title": "The Help",
+      "Author": "Kathryn Stockett",
+      "Rating": 4.47
+    },
+    {
+      "Title": "Much Ado About Nothing",
+      "Author": "William Shakespeare",
+      "Rating": 3.99
+    },
+    {
+      "Title": "A Thousand Splendid Suns",
+      "Author": "Khaled Hosseini",
+      "Rating": 4.38
+    },
+    {
+      "Title": "Julius Caesar",
+      "Author": "William Shakespeare",
+      "Rating": 3.81
+    },
+    {
+      "Title": "Twelfth Night",
+      "Author": "William Shakespeare",
+      "Rating": 3.95
+    },
+    {
+      "Title": "The Merchant of Venice",
+      "Author": "William Shakespeare",
+      "Rating": 3.88
+    },
+    {
+      "Title": "The Perks of Being a Wallflower",
+      "Author": "Stephen Chbosky",
+      "Rating": 4.20
+    },
+    {
+      "Title": "The Book Thief",
+      "Author": "Markus Zusak",
+      "Rating": 4.37
+    },
+    {
+      "Title": "1984",
+      "Author": "George Orwell",
+      "Rating": 4.19
+    },
+    {
+      "Title": "The Great Gatsby",
+      "Author": "F. Scott Fitzgerald",
+      "Rating": 3.93
+    },
+    {
+      "Title": "A Doll's House",
+      "Author": "Henrik Ibsen",
+      "Rating": 3.80
+    },
+    {
+      "Title": "The Taming of the Shrew",
+      "Author": "William Shakespeare",
+      "Rating": 3.76
+    },
+    {
+      "Title": "The Hunger Games (The Hunger Games, #1)",
+      "Author": "Suzanne Collins",
+      "Rating": 4.33
+    },
+    {
+      "Title": "The Glass Menagerie",
+      "Author": "Tennessee Williams",
+      "Rating": 3.93
+    },
+    {
+      "Title": "Lord of the Flies",
+      "Author": "William Golding",
+      "Rating": 3.68
+    },
+    {
+      "Title": "Oedipus Rex (The Theban Plays, #1)",
+      "Author": "Sophocles",
+      "Rating": 3.89
+    },
+    {
+      "Title": "Gone Girl",
+      "Author": "Gillian Flynn",
+      "Rating": 4.08
+    },
+    {
+      "Title": "My Sister's Keeper",
+      "Author": "Jodi Picoult",
+      "Rating": 4.09
+    },
+    {
+      "Title": "Drama",
+      "Author": "Raina Telgemeier",
+      "Rating": 4.17
+    },
+    {
+      "Title": "Antigone (The Theban Plays, #3)",
+      "Author": "Sophocles",
+      "Rating": 3.85
+    },
+    {
+      "Title": "Harry Potter and the Cursed Child - Parts One and Two",
+      "Author": "J.K. Rowling, John Tiffany, Jack Thorne",
+      "Rating": 3.47
+    },
+    {
+      "Title": "Pride and Prejudice",
+      "Author": "Jane Austen",
+      "Rating": 4.27
+    },
+    {
+      "Title": "Me Before You (Me Before You, #1)",
+      "Author": "Jojo Moyes",
+      "Rating": 4.26
+    },
+    {
+      "Title": "The Handmaid's Tale",
+      "Author": "Margaret Atwood",
+      "Rating": 4.13
+    },
+    {
+      "Title": "The Catcher in the Rye",
+      "Author": "J.D. Salinger",
+      "Rating": 3.80
+    },
+    {
+      "Title": "Memoirs of a Geisha",
+      "Author": "Arthur Golden",
+      "Rating": 4.11
+    },
+    {
+      "Title": "Who's Afraid of Virginia Woolf?",
+      "Author": "Edward Albee",
+      "Rating": 3.84
+    },
+    {
+      "Title": "Richard III",
+      "Author": "William Shakespeare",
+      "Rating": 3.83
+    },
+    {
+      "Title": "A Raisin in the Sun",
+      "Author": "Lorraine Hansberry",
+      "Rating": 4.26
+    },
+    {
+      "Title": "Henry V",
+      "Author": "William Shakespeare",
+      "Rating": 3.79
+    },
+    {
+      "Title": "Jane Eyre",
+      "Author": "Charlotte Brontë",
+      "Rating": 4.13
+    },
+    {
+      "Title": "Little Women",
+      "Author": "Louisa May Alcott",
+      "Rating": 4.10
+    },
+    {
+      "Title": "Pygmalion",
+      "Author": "George Bernard Shaw",
+      "Rating": 3.92
+    },
+    {
+      "Title": "The Girl on the Train",
+      "Author": "Paula Hawkins",
+      "Rating": 3.93
+    },
+    {
+      "Title": "Dr. Faustus",
+      "Author": "Christopher Marlowe",
+      "Rating": 3.79
+    },
+    {
+      "Title": "As You Like It",
+      "Author": "William Shakespeare",
+      "Rating": 3.84
+    },
+    {
+      "Title": "The Lovely Bones",
+      "Author": "Alice Sebold",
+      "Rating": 3.81
+    },
+    {
+      "Title": "Animal Farm",
+      "Author": "George Orwell",
+      "Rating": 3.96
+    },
+    {
+      "Title": "The Elephant Tree",
+      "Author": "R.D. Ronald",
+      "Rating": 3.70
+    },
+    {
+      "Title": "The Girl with the Dragon Tattoo (Millennium, #1)",
+      "Author": "Stieg Larsson",
+      "Rating": 4.14
+    },
+    {
+      "Title": "Long Day's Journey into Night",
+      "Author": "Eugene O'Neill",
+      "Rating": 4.06
+    },
+    {
+      "Title": "The Oedipus Cycle",
+      "Author": "Sophocles",
+      "Rating": 3.87
+    },
+    {
+      "Title": "Big Little Lies",
+      "Author": "Liane Moriarty",
+      "Rating": 4.27
+    },
+    {
+      "Title": "Water for Elephants",
+      "Author": "Sara Gruen",
+      "Rating": 4.08
+    },
+    {
+      "Title": "Wuthering Heights",
+      "Author": "Emily Brontë",
+      "Rating": 3.86
+    },
+    {
+      "Title": "Antony and Cleopatra",
+      "Author": "William Shakespeare",
+      "Rating": 3.73
+    },
+    {
+      "Title": "Room",
+      "Author": "Emma Donoghue",
+      "Rating": 4.07
+    },
+    {
+      "Title": "The Da Vinci Code (Robert Langdon, #2)",
+      "Author": "Dan Brown",
+      "Rating": 3.86
+    },
+    {
+      "Title": "The Shining",
+      "Author": "Stephen King",
+      "Rating": 4.25
+    },
+    {
+      "Title": "The Zombie Room",
+      "Author": "R.D. Ronald",
+      "Rating": 3.76
+    },
+    {
+      "Title": "Cat on a Hot Tin Roof",
+      "Author": "Tennessee Williams",
+      "Rating": 3.95
+    },
+    {
+      "Title": "Sharp Objects",
+      "Author": "Gillian Flynn",
+      "Rating": 4.03
+    },
+    {
+      "Title": "Thirteen Reasons Why",
+      "Author": "Jay Asher",
+      "Rating": 3.86
+    },
+    {
+      "Title": "Medea",
+      "Author": "Euripides",
+      "Rating": 3.83
+    },
+    {
+      "Title": "The Oresteia",
+      "Author": "Aeschylus",
+      "Rating": 3.91
+    },
+    {
+      "Title": "Rebecca",
+      "Author": "Daphne du Maurier",
+      "Rating": 4.22
+    },
+    {
+      "Title": "The Godfather",
+      "Author": "Mario Puzo",
+      "Rating": 4.37
+    },
+    {
+      "Title": "Our Town",
+      "Author": "Thornton Wilder",
+      "Rating": 3.71
+    },
+    {
+      "Title": "Catching Fire (The Hunger Games, #2)",
+      "Author": "Suzanne Collins",
+      "Rating": 4.29
+    },
+    {
+      "Title": "King Richard II",
+      "Author": "William Shakespeare",
+      "Rating": 3.79
+    },
+    {
+      "Title": "Crime and Punishment",
+      "Author": "Fyodor Dostoevsky",
+      "Rating": 4.20
+    },
+    {
+      "Title": "If I Stay (If I Stay, #1)",
+      "Author": "Gayle Forman",
+      "Rating": 3.97
+    },
+    {
+      "Title": "The Time Traveler's Wife",
+      "Author": "Audrey Niffenegger",
+      "Rating": 3.97
+    },
+    {
+      "Title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+      "Author": "George R.R. Martin",
+      "Rating": 4.45
+    },
+    {
+      "Title": "Looking for Alaska",
+      "Author": "John Green",
+      "Rating": 4.01
+    },
+    {
+      "Title": "Anna Karenina",
+      "Author": "Leo Tolstoy",
+      "Rating": 4.05
+    },
+    {
+      "Title": "Eleanor Oliphant Is Completely Fine",
+      "Author": "Gail Honeyman",
+      "Rating": 4.26
+    },
+    {
+      "Title": "Ghosts",
+      "Author": "Raina Telgemeier",
+      "Rating": 4.27
+    },
+    {
+      "Title": "All the Light We Cannot See",
+      "Author": "Anthony Doerr",
+      "Rating": 4.32
+    },
+    {
+      "Title": "The Girl Who Played with Fire (Millennium, #2)",
+      "Author": "Stieg Larsson",
+      "Rating": 4.23
+    },
+    {
+      "Title": "The Raina Telgemeier Collection (A Box Set)",
+      "Author": "Raina Telgemeier",
+      "Rating": 4.45
+    },
+    {
+      "Title": "Henry IV, Part I",
+      "Author": "William Shakespeare",
+      "Rating": 3.79
+    },
+    {
+      "Title": "Lolita",
+      "Author": "Vladimir Nabokov",
+      "Rating": 3.92
+    },
+    {
+      "Title": "Gone with the Wind",
+      "Author": "Margaret Mitchell",
+      "Rating": 4.30
+    },
+    {
+      "Title": "Of Mice and Men",
+      "Author": "John Steinbeck",
+      "Rating": 3.87
+    },
+    {
+      "Title": "The Road",
+      "Author": "Cormac McCarthy",
+      "Rating": 3.97
+    },
+    {
+      "Title": "Measure for Measure",
+      "Author": "William Shakespeare",
+      "Rating": 3.61
+    },
+    {
+      "Title": "No Exit and Three Other Plays",
+      "Author": "Jean-Paul Sartre",
+      "Rating": 3.88
+    },
+    {
+      "Title": "The Curious Incident of the Dog in the Night-Time",
+      "Author": "Mark Haddon",
+      "Rating": 3.86
+    },
+    {
+      "Title": "And Then There Were None",
+      "Author": "Agatha Christie",
+      "Rating": 4.27
+    },
+    {
+      "Title": "The Prophet",
+      "Author": "Kahlil Gibran",
+      "Rating": 4.23
+    },
+    {
+      "Title": "The Outsiders",
+      "Author": "S.E. Hinton",
+      "Rating": 4.13
+    },
+    {
+      "Title": "The Whole-Brain Child",
+      "Author": "Daniel J. Siegel, Tina Payne Bryson",
+      "Rating": 4.27
+    },
+    {
+      "Title": "Guts",
+      "Author": "Raina Telgemeier",
+      "Rating": 4.26
+    },
+    {
+      "Title": "The Silence of the Lambs (Hannibal Lecter, #2)",
+      "Author": "Thomas Harris",
+      "Rating": 4.18
+    }
+  ]
+}
+     

@@ -1,0 +1,11 @@
+langchain_community
+streamlit 
+langchain_huggingface
+transformers
+datasets
+BeautifulSoup4
+torch
+python-dotenv
+sentencepiece
+faiss-cpu
+pandas
