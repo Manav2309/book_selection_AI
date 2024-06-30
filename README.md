@@ -12,18 +12,3 @@ Welcome to the Autonomous Book Recommendation AI Agent repository! This project 
 
 - **LLM**: LLama3 by Ollama
 - **Web Framework**: Streamlit
-
-## Installation
-
-To get started with the Autonomous Book Recommendation AI Agent, follow these steps:
-
-### Prerequisites
-
-- Python 3.7 or higher
-- `pip` (Python package installer)
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/autonomous-book-recommendation-agent.git
-cd autonomous-book-recommendation-agent
