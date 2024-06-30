@@ -13,9 +13,9 @@ This document provides a brief overview of the approach taken for developing the
 Objectives
 
 
-1. User-Friendly Book Discovery: Simplify the process for users to find books within their preferred genres.
-2. High-Quality Recommendations: Provide users with top-rated books in their selected genre.
-3. Detailed Information: Offer comprehensive details about specific books upon user request.
+1. User-Friendly Book Discovery
+2. High-Quality Recommendations
+3. Detailed Information
 
 
 Architecture
